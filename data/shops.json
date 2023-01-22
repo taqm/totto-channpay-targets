@@ -1,0 +1,5588 @@
+[
+  {
+    "id": 1001,
+    "shopName": "おむらいす亭　フレスポ鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【洋食・レストラン】",
+    "address": "鳥栖市本鳥栖町537番地1　フレスポ鳥栖1Ｆ　",
+    "tel": "0942-82-8558",
+    "holiday": "なし",
+    "businessHour": "（通常時）　11:00～22：00"
+  },
+  {
+    "id": 1002,
+    "shopName": "佐藤製菓本舗",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【菓子製造・販売（和菓・フルーツ大福・焼菓子・鳥栖興し）】",
+    "address": "鳥栖市田代新町122-1　",
+    "tel": "0942-82-2773",
+    "holiday": "水曜日",
+    "businessHour": "9：00～18：00"
+  },
+  {
+    "id": 1003,
+    "shopName": "有限会社　下田硝子店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【ガラス・ガラス修理・網戸等】",
+    "address": "鳥栖市蔵上3丁目154番地　",
+    "tel": "0942-82-3879",
+    "holiday": "日曜日",
+    "businessHour": "8：30～17：30"
+  },
+  {
+    "id": 1004,
+    "shopName": "くすりのウチダ　鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【医薬品販売業】",
+    "address": "鳥栖市山浦町2347　",
+    "tel": "0942-84-4350",
+    "holiday": "1/1～1/3のみ",
+    "businessHour": "9：00～18：00"
+  },
+  {
+    "id": 1005,
+    "shopName": "大塚風呂専門店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【小売業（住宅用機器）】",
+    "address": "鳥栖市大正町685-2　",
+    "tel": "0942-82-3878",
+    "holiday": "日曜日定休の場合あり",
+    "businessHour": "8：30～18：00（時期により営業時間変更の可能性あり）"
+  },
+  {
+    "id": 1006,
+    "shopName": "らんぶる台所家",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【とんかつ、サンドイッチ】",
+    "address": "鳥栖市本通町1-810-26　",
+    "tel": "0942-83-5148",
+    "holiday": "月曜日",
+    "businessHour": "11：00～15：00　17：00～20：00"
+  },
+  {
+    "id": 1007,
+    "shopName": "手作り弁当の店　ショップ伊東",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【食料品、生鮮食品、お弁当、日用品、菓子】",
+    "address": "鳥栖市立石町2063-3　",
+    "tel": "0942-82-9225",
+    "holiday": "日曜、祝日",
+    "businessHour": "10：00～20：00"
+  },
+  {
+    "id": 1008,
+    "shopName": "ポアソン洋菓子店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【洋菓子製造販売】",
+    "address": "鳥栖市大正町787-1　",
+    "tel": "0942-84-3953",
+    "holiday": "不定休",
+    "businessHour": "月～土ＡＭ9：30～ＰＭ7：30　日、祝日ＡＭ9：30～ＰＭ7：00"
+  },
+  {
+    "id": 1009,
+    "shopName": "天の川　家事おたすけサポート",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【家事代行】",
+    "address": "鳥栖市大正町789-12　",
+    "tel": "0942-85-7851",
+    "holiday": "日曜・祝日",
+    "businessHour": "8：30～17：30"
+  },
+  {
+    "id": 1010,
+    "shopName": "池田屋酒店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【酒類・米・クリーニング・リンゴ酢】",
+    "address": "鳥栖市本町2-22-5　",
+    "tel": "0942-82-2900",
+    "holiday": "なし",
+    "businessHour": "7：00～18：30"
+  },
+  {
+    "id": 1011,
+    "shopName": "稲葉電気商会",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【家庭電化製品販売】",
+    "address": "鳥栖市本通町2-878-1　",
+    "tel": "0942-82-2293",
+    "holiday": "水曜日",
+    "businessHour": "9：00～19：00"
+  },
+  {
+    "id": 1012,
+    "shopName": "眼鏡時計　いとお",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【眼鏡・時計販売】",
+    "address": "鳥栖市本町1-970-4　",
+    "tel": "0942-83-9620",
+    "holiday": "なし",
+    "businessHour": "10：00～19：00"
+  },
+  {
+    "id": 1013,
+    "shopName": "Zeal HAIR",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【美容業】",
+    "address": "鳥栖市本鳥栖町537番地1フレスポ鳥栖1Ｆ　",
+    "tel": "0942-82-7636",
+    "holiday": "木曜日",
+    "businessHour": "10：00～19：00"
+  },
+  {
+    "id": 1014,
+    "shopName": "鳥ひよ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【焼鳥】",
+    "address": "鳥栖市本鳥栖町537-19　",
+    "tel": "0942-83-8689",
+    "holiday": "日曜日",
+    "businessHour": "17：00～23：00"
+  },
+  {
+    "id": 1015,
+    "shopName": "(有)吉原木工　本通り商店街本店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【アルミサッシ、玄関、ドア、ふすま、障子、網戸、雨戸、家具、修繕取替え】",
+    "address": "鳥栖市本通町1-813-8　",
+    "tel": "0942-82-0059",
+    "holiday": "日曜・祭日",
+    "businessHour": "10：00～18：00"
+  },
+  {
+    "id": 1016,
+    "shopName": "(有)吉原木工　藤木工場事務所",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【アルミサッシ、玄関、ドア、ふすま、障子、網戸、雨戸、家具、修繕取替え】",
+    "address": "鳥栖市藤木町2039-1　",
+    "tel": "0942-82-7676",
+    "holiday": "日曜・祭日",
+    "businessHour": "8：20～17：30"
+  },
+  {
+    "id": 1017,
+    "shopName": "ブランジェリ・パナセ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【パン製造・小売】",
+    "address": "鳥栖市鳥栖市蔵上3-121　",
+    "tel": "0942-83-6544",
+    "holiday": "水曜・日曜",
+    "businessHour": "10：00～18：00"
+  },
+  {
+    "id": 1018,
+    "shopName": "ベスパ　ベスパ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【パスタ・ピザ】",
+    "address": "鳥栖市本鳥栖町537-1フレスポ鳥栖1Ｆ　",
+    "tel": "0942-84-8884",
+    "holiday": "不定休",
+    "businessHour": "11：00～21：00"
+  },
+  {
+    "id": 1020,
+    "shopName": "和心料理はばき",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【日本料理】",
+    "address": "鳥栖市本町1-959-16-2　",
+    "tel": "0942-82-1038",
+    "holiday": "火曜日",
+    "businessHour": "18：00～24：00"
+  },
+  {
+    "id": 1021,
+    "shopName": "花匠",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【生花・ソープフラワー・鉢物・プリザーブドフラワー等】",
+    "address": "鳥栖市萱方町158-5　",
+    "tel": "0942-83-0087",
+    "holiday": "不定休",
+    "businessHour": "8：00～18：00"
+  },
+  {
+    "id": 1022,
+    "shopName": "白龍",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【中華料理】",
+    "address": "鳥栖市本鳥栖町410-9　",
+    "tel": "0942-80-0046",
+    "holiday": "月曜日・月曜日祭日の場合は翌火曜日",
+    "businessHour": "11：30～14：00　17：00～21：00"
+  },
+  {
+    "id": 1023,
+    "shopName": "油屋書店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【本・文具】",
+    "address": "鳥栖市本通町1-804　",
+    "tel": "0942-82-2339",
+    "holiday": "日曜・祭日",
+    "businessHour": "9：00～19：00"
+  },
+  {
+    "id": 1024,
+    "shopName": "日本カイロプラクティックセンター鳥栖中央",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【整体・脱毛】",
+    "address": "鳥栖市田代外町690-1　",
+    "tel": "0942-84-5077",
+    "holiday": "日曜・祝日",
+    "businessHour": "9：00～18：00"
+  },
+  {
+    "id": 1025,
+    "shopName": "おかしの水田屋",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【菓子販売】",
+    "address": "鳥栖市本町1丁目970番地　",
+    "tel": "0942-82-2071",
+    "holiday": "第2．第4木曜日",
+    "businessHour": "9：00～18：00"
+  },
+  {
+    "id": 1026,
+    "shopName": "おかしの水田屋　フレスポ鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【菓子販売】",
+    "address": "鳥栖市本鳥栖町537-1フレスポ鳥栖1F　",
+    "tel": "0942-83-8844",
+    "holiday": "なし",
+    "businessHour": "10：00～20：00"
+  },
+  {
+    "id": 1027,
+    "shopName": "りゅーすショップ丸太ん坊",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【古物・木工品・雑貨】",
+    "address": "鳥栖市今泉町2498-9　",
+    "tel": "090-1190-8761",
+    "holiday": "不定休",
+    "businessHour": "11：00～17：00"
+  },
+  {
+    "id": 1028,
+    "shopName": "有限会社　カフェ・ド・ブルー",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【カフェ・レストラン】",
+    "address": "鳥栖市宿町716-1　",
+    "tel": "0942-83-5617",
+    "holiday": "木曜日",
+    "businessHour": "11：00～22：00"
+  },
+  {
+    "id": 1030,
+    "shopName": "はるやま鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【メンズ・レディーススーツ、その他小物など】",
+    "address": "鳥栖市本鳥栖町537-1フレスポ鳥栖2F　",
+    "tel": "0942-83-8201",
+    "holiday": "なし",
+    "businessHour": "10：00～19：00"
+  },
+  {
+    "id": 1031,
+    "shopName": "江﨑薬局",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【薬局】",
+    "address": "鳥栖市本通町1丁目799-1　",
+    "tel": "0942-82-2051",
+    "holiday": "1/1～1/3",
+    "businessHour": "9：30～18：30"
+  },
+  {
+    "id": 1032,
+    "shopName": "リンクとすでんき",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【家電品】",
+    "address": "鳥栖市宿町1407-3　",
+    "tel": "09542-48-7039",
+    "holiday": "日曜日",
+    "businessHour": "9：00～19：00"
+  },
+  {
+    "id": 1033,
+    "shopName": "カレーハウスCoCo壱番屋　鳥栖バイパス店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【カレー】",
+    "address": "鳥栖市蔵上4丁目117　",
+    "tel": "0942-81-2802",
+    "holiday": "元旦",
+    "businessHour": "10：30～22：30"
+  },
+  {
+    "id": 1034,
+    "shopName": "焼肉　不動神",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【焼肉店】",
+    "address": "鳥栖市本鳥栖町615-6　",
+    "tel": "0942-83-8566",
+    "holiday": "なし",
+    "businessHour": "17：00～24：00"
+  },
+  {
+    "id": 1036,
+    "shopName": "エディオン　エース鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【家電品販売】",
+    "address": "鳥栖市曾根崎町1485-11　",
+    "tel": "0942-82-3058",
+    "holiday": "日曜・祝日",
+    "businessHour": "10：00～19：00"
+  },
+  {
+    "id": 1037,
+    "shopName": "中央軒　新鳥栖駅売店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【うどん・そば】",
+    "address": "鳥栖市原古賀町302-2　　JR九州新鳥栖駅構内",
+    "tel": "0942-82-3166",
+    "holiday": "なし",
+    "businessHour": "7：00～18：30"
+  },
+  {
+    "id": 1038,
+    "shopName": "中央軒　鳥栖駅待合室売店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【うどん・そば】",
+    "address": "鳥栖市京町709番地　JR九州鳥栖駅構内",
+    "tel": "0942-82-3166",
+    "holiday": "なし",
+    "businessHour": "7：00～21：00"
+  },
+  {
+    "id": 1039,
+    "shopName": "中央軒　鳥栖駅5・6番ホーム売店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【うどん・そば】",
+    "address": "鳥栖市京町709番地　JR九州鳥栖駅構内",
+    "tel": "0942-82-3166",
+    "holiday": "なし",
+    "businessHour": "7：00～21：00"
+  },
+  {
+    "id": 1040,
+    "shopName": "中央軒",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【お弁当】",
+    "address": "鳥栖市京町729番地　",
+    "tel": "0942-82-3166",
+    "holiday": "なし",
+    "businessHour": "8：00～18：30"
+  },
+  {
+    "id": 1041,
+    "shopName": "炭火焼鳥　囀々",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【炭火焼鳥】",
+    "address": "鳥栖市京町722-25-9　京町ビル1Ｆ",
+    "tel": "0942-50-5055",
+    "holiday": "月曜日",
+    "businessHour": "18：00～24：00"
+  },
+  {
+    "id": 1042,
+    "shopName": "ひかり薬局",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【医療】",
+    "address": "鳥栖市宿町1041-1　",
+    "tel": "0942-83-3371",
+    "holiday": "日曜・祝日",
+    "businessHour": "8:30～19:30"
+  },
+  {
+    "id": 1043,
+    "shopName": "リンガーハット　フレスポ鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【長﨑ちゃんぽん】",
+    "address": "鳥栖市本鳥栖町537-1　",
+    "tel": "0942-81-5138",
+    "holiday": "なし",
+    "businessHour": "10：00～22：00"
+  },
+  {
+    "id": 1044,
+    "shopName": "古賀呉服店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【京染・呉服販売】",
+    "address": "鳥栖市今泉町2603　",
+    "tel": "0942-82-2032",
+    "holiday": "不定休",
+    "businessHour": "10：00～18：00"
+  },
+  {
+    "id": 1045,
+    "shopName": "京もつ鍋ホルモン朱朱　佐賀鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【もつ鍋　ホルモン焼き　焼肉】",
+    "address": "鳥栖市本通町一丁目802番地17　",
+    "tel": "0942-85-9995",
+    "holiday": "毎週火曜日",
+    "businessHour": "17：00～24:00"
+  },
+  {
+    "id": 1046,
+    "shopName": "フラワーショップ　はなとり",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【生花店】",
+    "address": "鳥栖市本町一丁目953-2　",
+    "tel": "0942-83-2762",
+    "holiday": "不定休",
+    "businessHour": "9：00～19：00"
+  },
+  {
+    "id": 1047,
+    "shopName": "ボークー・ド・ボヌール",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【ピザ パスタ デザート ワイン 珈琲 珈琲豆】",
+    "address": "鳥栖市本通町一丁目804-6　",
+    "tel": "0942-85-7711",
+    "holiday": "月曜・火曜・不定休",
+    "businessHour": "18:00～22:30（ラストオーダー）"
+  },
+  {
+    "id": 1048,
+    "shopName": "化粧工房Biji-na",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【化粧品専門店】",
+    "address": "鳥栖市鳥栖町537-1フレスポＴＯＳＵ-1Ｆ　",
+    "tel": "0942-85-2858",
+    "holiday": "なし",
+    "businessHour": "10：00～20：00"
+  },
+  {
+    "id": 1049,
+    "shopName": "味味鳥",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市古賀町650-2　",
+    "tel": "0942-84-7005",
+    "holiday": "水曜日",
+    "businessHour": "17:30～24:00"
+  },
+  {
+    "id": 1050,
+    "shopName": "さすらいのカンテキ鳥栖酒場",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【】",
+    "address": "鳥栖市大正町771-16　",
+    "tel": "0942-55-6642",
+    "holiday": "日曜日",
+    "businessHour": "平日17:00~24:00土曜・祝日11:30~15:00/17:00~24:00(O.S23:00)"
+  },
+  {
+    "id": 1051,
+    "shopName": "美容室　ふぉうとれす",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【美容室】",
+    "address": "鳥栖市神辺町1588-6　",
+    "tel": "0942-84-7541",
+    "holiday": "日・祭日",
+    "businessHour": ""
+  },
+  {
+    "id": 1052,
+    "shopName": "フレスポ鳥栖　SHOO LA RUE",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【フランチャイズにおける婦人服販売等】",
+    "address": "鳥栖市本鳥栖町537-1フレスポ鳥栖1Ｆ　",
+    "tel": "0942-81-1810",
+    "holiday": "なし",
+    "businessHour": "10:00~20:00"
+  },
+  {
+    "id": 1053,
+    "shopName": "フジイテレビ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【家電品販売】",
+    "address": "鳥栖市宿町1252-1　",
+    "tel": "0942-82-2503",
+    "holiday": "日曜日",
+    "businessHour": "9：00～18：00"
+  },
+  {
+    "id": 1054,
+    "shopName": "食堂TOPO",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【バル】",
+    "address": "鳥栖市本鳥栖町537-19　",
+    "tel": "0942-84-4233",
+    "holiday": "火曜日",
+    "businessHour": "平日のみ（12：00～14：00）、18：00～24：00"
+  },
+  {
+    "id": 1055,
+    "shopName": "ユアーズヘアーエヴォリューション",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【美容室】",
+    "address": "鳥栖市蔵上4丁目189　プロスパー五番館102",
+    "tel": "0942-81-5633",
+    "holiday": "毎週月曜日、第3火曜日",
+    "businessHour": "平日10：00～19：00、日祝9：00～19：00"
+  },
+  {
+    "id": 1056,
+    "shopName": "有限会社野下自動車",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【自動車整備・販売】",
+    "address": "鳥栖市高田町69-1　",
+    "tel": "0942-83-3153",
+    "holiday": "日・祭日",
+    "businessHour": "9：00～18：00"
+  },
+  {
+    "id": 1057,
+    "shopName": "ふく手羽　鳥栖本店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市本通町1丁目802　",
+    "tel": "0942-85-3339",
+    "holiday": "日曜日",
+    "businessHour": "18：00～0：00　　（時短以外）"
+  },
+  {
+    "id": 1058,
+    "shopName": "鳥栖スポーツ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【】",
+    "address": "鳥栖市本鳥栖町537-21　",
+    "tel": "0942-82-0538",
+    "holiday": "なし",
+    "businessHour": "9：30～20：00"
+  },
+  {
+    "id": 1059,
+    "shopName": "カレーハウス田園",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【カレー、洋食、テイクアウト】",
+    "address": "鳥栖市蔵上町620-10　",
+    "tel": "0942-81-5475",
+    "holiday": "火曜日",
+    "businessHour": "11：30～15：00(O.S　14:30)　 17:30～21：00（O.S　20：30）"
+  },
+  {
+    "id": 1060,
+    "shopName": "大久保電器　",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【家電品】",
+    "address": "鳥栖市田代外町655-13　",
+    "tel": "0942-50-8687",
+    "holiday": "日曜日",
+    "businessHour": "9：00～19：00"
+  },
+  {
+    "id": 1061,
+    "shopName": "HAIR STAGE CHUM",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【美容業】",
+    "address": "鳥栖市蔵上1-165　",
+    "tel": "0942-83-5840",
+    "holiday": "月曜日",
+    "businessHour": "9：00～18：00"
+  },
+  {
+    "id": 1062,
+    "shopName": "みやび",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【菓子製造・販売・軽食】",
+    "address": "鳥栖市古賀町603　",
+    "tel": "なし",
+    "holiday": "月・火・水・木（変更になる場合があります。）",
+    "businessHour": "11：00～21：30(なくなり次第終了)"
+  },
+  {
+    "id": 1063,
+    "shopName": "セブンイレブン鳥栖蔵上2丁目店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【おにぎり弁当、飲料、、お菓子、雑貨、酒類】",
+    "address": "鳥栖市蔵上2丁目185　",
+    "tel": "0942-82-9530",
+    "holiday": "なし",
+    "businessHour": "24時間"
+  },
+  {
+    "id": 1064,
+    "shopName": "salon de OLIVE",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【美容室】",
+    "address": "鳥栖市今泉町2451-1　",
+    "tel": "0942-83-9744",
+    "holiday": "毎週月曜日・第1火曜日・第3日曜日",
+    "businessHour": "9：00～18：00"
+  },
+  {
+    "id": 1065,
+    "shopName": "株式会社トスプロ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【プロパンガス、リフォーム、宅配水、水道工事】",
+    "address": "鳥栖市儀徳町2927-1　",
+    "tel": "0942-83-3059",
+    "holiday": "日曜、祝日",
+    "businessHour": "8：15～17：15"
+  },
+  {
+    "id": 1066,
+    "shopName": "タナカフォトカメラ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【写真館、プリント】",
+    "address": "鳥栖市東町1丁目1021-1　",
+    "tel": "0942-83-5656",
+    "holiday": "日曜日(ご予約のみ)",
+    "businessHour": "10：00～16：00"
+  },
+  {
+    "id": 1067,
+    "shopName": "マウリーノ　カフェ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【ピザ、パスタ、創作イタリアン】",
+    "address": "鳥栖市萱方町271-2　",
+    "tel": "0942-50-5164",
+    "holiday": "火曜日",
+    "businessHour": "11：00～21：00"
+  },
+  {
+    "id": 1068,
+    "shopName": "スクールショップ　みゆき",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【市内各小、中学校制服他販売】",
+    "address": "鳥栖市養父町490-1　",
+    "tel": "0942-82-4032",
+    "holiday": "火曜日　(祝日の場合翌日)　6月～11月までは第２、4水曜日も休み",
+    "businessHour": "9：30～19：00"
+  },
+  {
+    "id": 1069,
+    "shopName": "焼肉道",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【佐賀牛を中心とした焼肉店、お弁当、お持ち帰り用焼肉】",
+    "address": "鳥栖市本通町2丁目872番地3　",
+    "tel": "0942-25-8209",
+    "holiday": "不定休",
+    "businessHour": "17：00～翌3：00"
+  },
+  {
+    "id": 1070,
+    "shopName": "atelier Kako",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【犬のおやつ・犬のおもちゃ等】",
+    "address": "鳥栖市古賀町603　",
+    "tel": "なし",
+    "holiday": "月・火・水・木",
+    "businessHour": "11：00～17：00"
+  },
+  {
+    "id": 1071,
+    "shopName": "イタリア料理　詩々里庵",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【ピザやパスタなどのイタリア料理】",
+    "address": "鳥栖市大正町783-9　",
+    "tel": "0942-82-8457",
+    "holiday": "火曜日",
+    "businessHour": "11：30～14：30　17：00～21：00（OS20：30）"
+  },
+  {
+    "id": 1072,
+    "shopName": "こめぐらパラダイス",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【米、雑穀、豆】",
+    "address": "鳥栖市本鳥栖町537-1フレスポ鳥栖店内　",
+    "tel": "0942-84-5988",
+    "holiday": "なし（お盆とお正月のみ休み）",
+    "businessHour": "10：00～20：00"
+  },
+  {
+    "id": 1073,
+    "shopName": "花の店クロダ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【花の販売】",
+    "address": "鳥栖市本通町1丁目855-3　",
+    "tel": "0942-82-2935",
+    "holiday": "不定休",
+    "businessHour": "平日9：00～19：00　日祝日10：00～19：00"
+  },
+  {
+    "id": 1074,
+    "shopName": "プライベートサロン　Eclat",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【エステサロン】",
+    "address": "鳥栖市田代昌町57-2レガロヴィンスＢ　",
+    "tel": "0942-83-2729",
+    "holiday": "日曜日・最終週月曜日",
+    "businessHour": "月～金11：00～20：30　土10：30～20：30　祝日10：30～18：30"
+  },
+  {
+    "id": 1075,
+    "shopName": "有限会社　山下屋酒店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【酒・氷・ドライアイス】",
+    "address": "鳥栖市曽根崎町1634-2　",
+    "tel": "0942-82-2206",
+    "holiday": "なし",
+    "businessHour": "8：00～19：00"
+  },
+  {
+    "id": 1078,
+    "shopName": "スマイルタクシー",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【タクシー・乗合バス・貸切バス】",
+    "address": "鳥栖市轟木町1836　",
+    "tel": "0942-83-4101",
+    "holiday": "なし",
+    "businessHour": "6：00～翌2：00"
+  },
+  {
+    "id": 1079,
+    "shopName": "有限会社　ジョイント石油",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【ガソリンスタンド（現金支払いのみ毎週水曜日スタンプ２倍）】",
+    "address": "鳥栖市村田町837-1　",
+    "tel": "0942-84-2042",
+    "holiday": "1/1～1/3",
+    "businessHour": "7：30～20：00　日・祭日7：30～19：00"
+  },
+  {
+    "id": 1080,
+    "shopName": "ネイル＆フラワーサロン～Ri･hiro～鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【ネイル、プリザーブドフラワー、ハーバリウム】",
+    "address": "鳥栖市萱方町121-8　プレミアム萱方1-102",
+    "tel": "090-3415-7292",
+    "holiday": "不定休",
+    "businessHour": "9：00～22：00（完全予約制）"
+  },
+  {
+    "id": 1081,
+    "shopName": "どんどん亭　鳥栖バイパス店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【】",
+    "address": "鳥栖市牛原町514-14　",
+    "tel": "0942-82-6103",
+    "holiday": "年始",
+    "businessHour": "11：30～15：00（OS14:15）17：00～23：00（OS22:00）"
+  },
+  {
+    "id": 1082,
+    "shopName": "drinkstand1212",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【カフェ】",
+    "address": "鳥栖市曽根崎町1273-1　",
+    "tel": "050-1301-2660",
+    "holiday": "月曜日",
+    "businessHour": "11：00～22：00（18：00以降は要予約）"
+  },
+  {
+    "id": 1083,
+    "shopName": "マリーゴールドプルミエ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【結婚式、レストラン】",
+    "address": "鳥栖市轟木町1814　",
+    "tel": "0942-50-5523",
+    "holiday": "火、水曜日",
+    "businessHour": "11：00～19：00"
+  },
+  {
+    "id": 1084,
+    "shopName": "和と印こころのえき",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【十割そばと日本酒、居酒屋】",
+    "address": "鳥栖市大正町786-6　",
+    "tel": "0942-85-8199",
+    "holiday": "日曜日",
+    "businessHour": "18：00～22：00"
+  },
+  {
+    "id": 1085,
+    "shopName": "ＬＩＸＩＬリフォームショップ鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【リフォームショップ】",
+    "address": "鳥栖市姫方町309-2　",
+    "tel": "0942-81-3128",
+    "holiday": "不定休",
+    "businessHour": "9：00～18：00"
+  },
+  {
+    "id": 1086,
+    "shopName": "はんず鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【印鑑、ゴム印、名刺、封筒、はがき、印刷】",
+    "address": "鳥栖市本通町1丁目810-4-1　",
+    "tel": "0942-81-5202",
+    "holiday": "日、祝日",
+    "businessHour": "平日10：00～18：00　土曜日10：00～17：00"
+  },
+  {
+    "id": 1087,
+    "shopName": "株式会社蔵出しめんたい本舗　本店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【辛子明太子の販売】",
+    "address": "鳥栖市藤木町若桜4-9　",
+    "tel": "0942-82-3339",
+    "holiday": "水曜日",
+    "businessHour": "10：00～18：00"
+  },
+  {
+    "id": 1088,
+    "shopName": "株式会社蔵出しめんたい本舗　弥生が丘店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【ランチ及びテイクアウト、辛子明太子の販売】",
+    "address": "鳥栖市弥生が丘5-1-1　",
+    "tel": "0942-87-9330",
+    "holiday": "火曜日",
+    "businessHour": "10：00～18：00"
+  },
+  {
+    "id": 1089,
+    "shopName": "ヒラノスポーツ　鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【スポーツ用品等　販売】",
+    "address": "鳥栖市本通町1丁目810-24　",
+    "tel": "0942-82-1717",
+    "holiday": "毎週水曜日",
+    "businessHour": "10：00～20：00（月・火・木・金）10：00～19：00（土・日・祝）"
+  },
+  {
+    "id": 1090,
+    "shopName": "串揚げ　アンテナ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市本通町1丁目810-39　",
+    "tel": "0942-84-9877",
+    "holiday": "日曜日",
+    "businessHour": "18：00～24：00"
+  },
+  {
+    "id": 1091,
+    "shopName": "焼鳥　米五合",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【焼鳥】",
+    "address": "鳥栖市古野町670-1　",
+    "tel": "0942-85-7895",
+    "holiday": "第1月曜日、毎週火曜日",
+    "businessHour": "17：00～24：00"
+  },
+  {
+    "id": 1092,
+    "shopName": "(有)とすのとんかつきむら本店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【とんかつ】",
+    "address": "鳥栖市養父町482-1　",
+    "tel": "0942-83-2369",
+    "holiday": "火曜日",
+    "businessHour": "11：00～14：30　16：30～20：30（Ｏ．Ｓ）"
+  },
+  {
+    "id": 1094,
+    "shopName": "（株）福山",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【うどん・ラーメン・パスタなど麺類の販売】",
+    "address": "鳥栖市松原町1801-8　",
+    "tel": "0942-82-2357",
+    "holiday": "日曜日",
+    "businessHour": "9：00～17：00"
+  },
+  {
+    "id": 1095,
+    "shopName": "壱八",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【焼肉店】",
+    "address": "鳥栖市京町780-7　",
+    "tel": "0942-80-2096",
+    "holiday": "火曜日",
+    "businessHour": "17：30～24:00(お肉がなくなり次第終了)"
+  },
+  {
+    "id": 1096,
+    "shopName": "光林飯店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【中華料理】",
+    "address": "鳥栖市古賀町357　",
+    "tel": "0942-83-1234",
+    "holiday": "火曜日",
+    "businessHour": "11：00～14：30　17：00～21：00　オーダーストップ20：30"
+  },
+  {
+    "id": 1097,
+    "shopName": "炭焼　英",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市本鳥栖町662-5　",
+    "tel": "0942-82-6537",
+    "holiday": "日曜日",
+    "businessHour": "17：00～22：00"
+  },
+  {
+    "id": 1098,
+    "shopName": "あんくるふじや鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【酒類小売】",
+    "address": "鳥栖市宿町門戸口1422-1　",
+    "tel": "0942-81-5530",
+    "holiday": "なし",
+    "businessHour": "9：00～20：00"
+  },
+  {
+    "id": 1099,
+    "shopName": "癒しの時間　オアシス",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【リラクゼーションサロン】",
+    "address": "鳥栖市儀德町2059-1　",
+    "tel": "0942-85-9755",
+    "holiday": "毎週火曜日",
+    "businessHour": "10：00～23：00(受付時間10：00～20：00）"
+  },
+  {
+    "id": 1100,
+    "shopName": "株式会社アイワ自動車工業",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【自動車整備、車検、鈑金等】",
+    "address": "鳥栖市今泉町2239番地1　",
+    "tel": "0942-83-1168",
+    "holiday": "日、祝日",
+    "businessHour": "9：00～17：30"
+  },
+  {
+    "id": 1101,
+    "shopName": "炭火やきとり　桜翔",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市本町2丁目1399-6　",
+    "tel": "0942-84-9276",
+    "holiday": "月曜日",
+    "businessHour": "火曜～土曜17：00～2：00　日曜17：00～"
+  },
+  {
+    "id": 1102,
+    "shopName": "BON　BON",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【衣料品】",
+    "address": "鳥栖市本鳥栖町704-12　",
+    "tel": "0942-84-7788",
+    "holiday": "不定休",
+    "businessHour": "10：00～18：00"
+  },
+  {
+    "id": 1103,
+    "shopName": "プライベートサロン　Lagurus",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【エステティックサロン】",
+    "address": "鳥栖市原町870-1　Ａ101　",
+    "tel": "090-6864-3737",
+    "holiday": "日曜日",
+    "businessHour": "10：00～18：00"
+  },
+  {
+    "id": 1104,
+    "shopName": "カーライフネクサス",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【レンタカー、車販売、車検、修理】",
+    "address": "鳥栖市元町1295-10　",
+    "tel": "0942-84-2727",
+    "holiday": "なし",
+    "businessHour": "10：00～19：00"
+  },
+  {
+    "id": 1105,
+    "shopName": "居酒屋　信ちゃん",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市本通町2丁目873-3　",
+    "tel": "0942-84-9620",
+    "holiday": "日曜日",
+    "businessHour": "18:00～24：00"
+  },
+  {
+    "id": 1106,
+    "shopName": "オートショップRUN＆RUN",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【自動車・オートバイ・部品販売】",
+    "address": "鳥栖市真木町2001-2　",
+    "tel": "090-8668-6067",
+    "holiday": "日曜・祝日",
+    "businessHour": "10：00～18：00"
+  },
+  {
+    "id": 1107,
+    "shopName": "ミシンのきゅーえい",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【ミシンの販売、修理】",
+    "address": "鳥栖市大正町685-6　",
+    "tel": "0942-85-1331",
+    "holiday": "不定休",
+    "businessHour": "9：00～18：00"
+  },
+  {
+    "id": 1108,
+    "shopName": "弘助",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市本鳥栖町410-7　",
+    "tel": "0942-84-1009",
+    "holiday": "日曜日",
+    "businessHour": "11：30～14：00　18：00～23：00"
+  },
+  {
+    "id": 1109,
+    "shopName": "いきいき鳥栖北整骨院・整体院",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【整体・カイロプラクティック】",
+    "address": "鳥栖市古賀町627-4　",
+    "tel": "0942-85-8065",
+    "holiday": "木・水曜午後、第一第三日曜午後",
+    "businessHour": "9：00～12：30　15：00～20：00"
+  },
+  {
+    "id": 1110,
+    "shopName": "司法書士行政書士　久保山且也事務所",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【司法書士・行政書士】",
+    "address": "鳥栖市秋葉町3丁目25-3　吉竹ビル201",
+    "tel": "0942-87-9670",
+    "holiday": "土・日・祝日",
+    "businessHour": "9：00～18：00"
+  },
+  {
+    "id": 1111,
+    "shopName": "鳥栖旅行センター",
+    "exclusive": false,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【旅行業】",
+    "address": "鳥栖市本鳥栖町537-1　フレスポ鳥栖2F　",
+    "tel": "0942-82-1811",
+    "holiday": "水・木",
+    "businessHour": "11:00～18：00　（受付は17：00まで）"
+  },
+  {
+    "id": 1114,
+    "shopName": "光タイヤサービス",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【タイヤ販売】",
+    "address": "鳥栖市轟木町1100　",
+    "tel": "0942-82-3742",
+    "holiday": "日曜日",
+    "businessHour": "8：00～18：30"
+  },
+  {
+    "id": 1116,
+    "shopName": "ディーノ美容室",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【美容室】",
+    "address": "鳥栖市東町三丁目912-48　",
+    "tel": "0942-85-3018",
+    "holiday": "月曜日",
+    "businessHour": "9：00～19：00"
+  },
+  {
+    "id": 1117,
+    "shopName": "食彩　けん玉",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市大正町789-2　",
+    "tel": "0942-82-1955",
+    "holiday": "月曜日　第一・第三・日曜日",
+    "businessHour": "18：00～23：00"
+  },
+  {
+    "id": 1118,
+    "shopName": "焼肉プサン",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【焼肉、韓国料理】",
+    "address": "鳥栖市古賀町15　",
+    "tel": "0942-85-1907",
+    "holiday": "なし",
+    "businessHour": "11：00～24：00"
+  },
+  {
+    "id": 1120,
+    "shopName": "saburo36",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【カフェ・レストラン】",
+    "address": "鳥栖市本鳥栖町570-1　",
+    "tel": "0942-82-9563",
+    "holiday": "水曜日",
+    "businessHour": "11：30～15：00　18：00～22：00"
+  },
+  {
+    "id": 1121,
+    "shopName": "天ぷら　海老名",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【和食、天ぷら、天丼、せいろむし、ぞうすい】",
+    "address": "鳥栖市養父町474　",
+    "tel": "0942-82-7611",
+    "holiday": "毎週火曜日",
+    "businessHour": "11：00～14：30（O.S.）17：00～20：30（O.S.）"
+  },
+  {
+    "id": 1122,
+    "shopName": "メガネの立石　鳥栖バイパス店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【メガネ・補聴器】",
+    "address": "鳥栖市布津原町62-125　",
+    "tel": "0942-83-7760",
+    "holiday": "水曜日（祝日除く）",
+    "businessHour": "AM10:00～PM7：00"
+  },
+  {
+    "id": 1123,
+    "shopName": "天野精肉店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【食肉販売】",
+    "address": "鳥栖市古野町651　",
+    "tel": "0942-82-2568",
+    "holiday": "水・日",
+    "businessHour": "9：00～17：00"
+  },
+  {
+    "id": 1124,
+    "shopName": "お肉屋さんのお惣菜　肉肉菜彩",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【惣菜屋】",
+    "address": "鳥栖市古野町651　",
+    "tel": "0942-82-2568",
+    "holiday": "水・日",
+    "businessHour": "11：00～19：00"
+  },
+  {
+    "id": 1125,
+    "shopName": "有限会社　江崎石油",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【ガソリンスタンド（フルサービス）】",
+    "address": "鳥栖市藤木町2073-2　",
+    "tel": "0942-83-1718",
+    "holiday": "日曜日",
+    "businessHour": "AM7：30～PM7：30"
+  },
+  {
+    "id": 1126,
+    "shopName": "ドラッグストアモリ　鳥栖蔵上店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【医薬品・化粧品・生活用品・食料品の販売】",
+    "address": "鳥栖市蔵上3丁目162　",
+    "tel": "0942-82-8285",
+    "holiday": "なし",
+    "businessHour": "9：00～24：00"
+  },
+  {
+    "id": 1127,
+    "shopName": "ドラッグストアモリ　蔵上北店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【医薬品・化粧品・生活用品・食料品の販売】",
+    "address": "鳥栖市蔵上2丁目270番地　",
+    "tel": "0942-85-7331",
+    "holiday": "なし",
+    "businessHour": "9：00～24：00"
+  },
+  {
+    "id": 1128,
+    "shopName": "フィッシュ金梅",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【鮮魚店】",
+    "address": "鳥栖市萱方町180　",
+    "tel": "0942-82-2691",
+    "holiday": "なし",
+    "businessHour": "9：30～19：00"
+  },
+  {
+    "id": 1129,
+    "shopName": "イカリクルマ工房",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【小売業・中古販売】",
+    "address": "鳥栖市儀徳町3255-1　",
+    "tel": "0942-82-8614",
+    "holiday": "なし",
+    "businessHour": "9：30～19：00"
+  },
+  {
+    "id": 1130,
+    "shopName": "エディオン　サウンド三響",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【家電販売・リフォーム】",
+    "address": "鳥栖市秋葉町3丁目24-9　",
+    "tel": "0942-83-8345",
+    "holiday": "月曜日",
+    "businessHour": "10：00～19：00"
+  },
+  {
+    "id": 1131,
+    "shopName": "hair salon Hinata",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【美容室】",
+    "address": "鳥栖市神辺町1576-2　",
+    "tel": "0942-50-9868",
+    "holiday": "水曜日",
+    "businessHour": "9：00～19：00"
+  },
+  {
+    "id": 1132,
+    "shopName": "からあげ大吉　鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【からあげテイクアウト】",
+    "address": "鳥栖市古賀町328-1　",
+    "tel": "0942-85-8426",
+    "holiday": "なし",
+    "businessHour": "11：00～19：00"
+  },
+  {
+    "id": 1133,
+    "shopName": "Dining＆Barこやなぎ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋とBar（食事が出来るBar）】",
+    "address": "鳥栖市本通町1-802-20　",
+    "tel": "0942-80-6647",
+    "holiday": "日・月・火",
+    "businessHour": "18：00～24：00"
+  },
+  {
+    "id": 1134,
+    "shopName": "菜蓮本店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市本通町1丁目813-11　",
+    "tel": "0942-84-6558",
+    "holiday": "火",
+    "businessHour": "17：00～24：00　日12：00～24：00"
+  },
+  {
+    "id": 1135,
+    "shopName": "Aプライス　鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【業務用食品】",
+    "address": "鳥栖市蔵上4丁目306　",
+    "tel": "0942-87-7171",
+    "holiday": "なし",
+    "businessHour": "9：30～18：30"
+  },
+  {
+    "id": 1136,
+    "shopName": "食彩浪漫　ひろ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市本鳥栖町537-17　",
+    "tel": "0942-84-4335",
+    "holiday": "日・祭日",
+    "businessHour": "17：00～23：00"
+  },
+  {
+    "id": 1137,
+    "shopName": "文具でぶんぐ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【文具・画材】",
+    "address": "鳥栖市古賀町322　",
+    "tel": "0942-85-3838",
+    "holiday": "不定休",
+    "businessHour": "10：00～19：00"
+  },
+  {
+    "id": 1138,
+    "shopName": "海皇",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市蔵上1-226-2　",
+    "tel": "0942-83-1154",
+    "holiday": "火曜日＋不定休",
+    "businessHour": "17：30～23：00"
+  },
+  {
+    "id": 1139,
+    "shopName": "お茶処森",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【】",
+    "address": "鳥栖市本鳥栖町537-1フレスポ鳥栖店内　",
+    "tel": "0942-83-9643",
+    "holiday": "無し",
+    "businessHour": "10：00～20：00"
+  },
+  {
+    "id": 1140,
+    "shopName": "ダスキン鳥栖",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【ダスキン清掃用具レンタル・販売　及び　清掃業】",
+    "address": "鳥栖市萱方町243-15　",
+    "tel": "0942-82-3384",
+    "holiday": "土日祝",
+    "businessHour": "8：30～18：00"
+  },
+  {
+    "id": 1141,
+    "shopName": "焼肉　香梅",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【焼肉店】",
+    "address": "鳥栖市京町776-1-2　",
+    "tel": "0942-84-2210",
+    "holiday": "なし",
+    "businessHour": "17：00～24：00"
+  },
+  {
+    "id": 1142,
+    "shopName": "カットサロン・ケイ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【】",
+    "address": "鳥栖市藤木町2196-1　",
+    "tel": "0942-85-0580",
+    "holiday": "月曜日",
+    "businessHour": "9：00～19：00"
+  },
+  {
+    "id": 1144,
+    "shopName": "あんくるふじや弥生が丘(西鉄ストア)",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【】",
+    "address": "鳥栖市弥生が丘1丁目36番　",
+    "tel": "0942-87-3500",
+    "holiday": "なし",
+    "businessHour": "10:00～20：00"
+  },
+  {
+    "id": 1145,
+    "shopName": "ヘアーサロンキング",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【床屋・バーバー】",
+    "address": "鳥栖市大正町783-9　",
+    "tel": "0942-82-2571",
+    "holiday": "毎週月曜日　第一火曜日　第三日曜日",
+    "businessHour": "8:00～19：00　(最終受付18：00まで)"
+  },
+  {
+    "id": 1146,
+    "shopName": "OKINAWA かりゆし",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【沖縄物産・雑貨】",
+    "address": "鳥栖市本鳥栖町537-1　",
+    "tel": "0942-87-3365",
+    "holiday": "なし",
+    "businessHour": "10：00～19：00"
+  },
+  {
+    "id": 1147,
+    "shopName": "ビューティー&ブライダル　まつもと",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【美容室　カラー、パーマ、カット、着付、セット】",
+    "address": "鳥栖市本町2-1413-2　",
+    "tel": "0942-83-9702",
+    "holiday": "毎週月曜日、第一日曜日、第三日曜日",
+    "businessHour": "9:30～18：00"
+  },
+  {
+    "id": 1148,
+    "shopName": "石田薬局",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【一般医薬品、サプリメント、化粧品、雑貨】",
+    "address": "鳥栖市萱方町230-32　",
+    "tel": "0942-82-6949",
+    "holiday": "毎週日曜日",
+    "businessHour": "9：00～19：00"
+  },
+  {
+    "id": 1149,
+    "shopName": "美容室　クレスト",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【美容室】",
+    "address": "鳥栖市儀徳町2681-1　ルネス旭103",
+    "tel": "0942-85-8240",
+    "holiday": "日曜日、不定休有（要予約）",
+    "businessHour": "9：30～17：00"
+  },
+  {
+    "id": 1150,
+    "shopName": "鳥栖補聴器",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【補聴器販売】",
+    "address": "鳥栖市東町2丁目910　",
+    "tel": "0942-80-8160",
+    "holiday": "日曜日、祝日",
+    "businessHour": "9：00～17：00"
+  },
+  {
+    "id": 1151,
+    "shopName": "釣具のポイント　鳥栖商工団地店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【釣具】",
+    "address": "鳥栖市藤木町若桜4-10　鳥栖商工団地内",
+    "tel": "0942-82-8261",
+    "holiday": "1月11日（火）～3月8（火）までの毎週火曜日",
+    "businessHour": "月～土曜日：午前10：00～午後8時　　日曜・祝日：午前9時～午後7時"
+  },
+  {
+    "id": 1152,
+    "shopName": "幸温灸院",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【はりきゅう治療】",
+    "address": "鳥栖市村田町30-7　",
+    "tel": "090-9597-2985",
+    "holiday": "なし（完全予約制）",
+    "businessHour": "10：00～15：00（月～金）　10：00～18：00（土・日）"
+  },
+  {
+    "id": 1153,
+    "shopName": "有限会社　マツクマ自動車",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【自動車整備業】",
+    "address": "鳥栖市高田町151-4　",
+    "tel": "0942-82-0050",
+    "holiday": "水曜日",
+    "businessHour": "8：30～20：00"
+  },
+  {
+    "id": 1154,
+    "shopName": "情熱焼鳥　祭",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【焼鳥70円～　骨付きカルビ742円税込み】",
+    "address": "鳥栖市本町1-965-4　",
+    "tel": "0942-55-3941",
+    "holiday": "月（祝日の場合火曜日）",
+    "businessHour": "16時～22時　日祝12：00～20：00"
+  },
+  {
+    "id": 1155,
+    "shopName": "リンガーハット　鳥栖田代店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【長﨑ちゃんぽん】",
+    "address": "鳥栖市神辺町87-3　",
+    "tel": "0942-82-8304",
+    "holiday": "なし",
+    "businessHour": "10：30～23：00　(ラストオーダー22：30)"
+  },
+  {
+    "id": 1156,
+    "shopName": "Ｎim-mary",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【雑貨・洋服店】",
+    "address": "鳥栖市古賀町627-10　",
+    "tel": "080-3971-5717",
+    "holiday": "火・水・日・祝",
+    "businessHour": "平日10：00～15：00　土曜日11：00～16：00"
+  },
+  {
+    "id": 1157,
+    "shopName": "オートバックス　鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【カー用品小売業】",
+    "address": "鳥栖市轟木町1173　",
+    "tel": "0942-50-8039",
+    "holiday": "なし",
+    "businessHour": "10：00～20：00"
+  },
+  {
+    "id": 1158,
+    "shopName": "うらら",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【ランチ＆季節の創作料理】",
+    "address": "鳥栖市東町1丁目1027番地　",
+    "tel": "0942-82-2424",
+    "holiday": "月曜日",
+    "businessHour": "昼11：30～14：00　夜18：00～23：00（日・祝祭日22：00）"
+  },
+  {
+    "id": 1159,
+    "shopName": "株式会社宮原住宅産業",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【新築、リフォーム、不動産】",
+    "address": "鳥栖市今町1788　",
+    "tel": "0942-82-0123",
+    "holiday": "日曜日、祭日",
+    "businessHour": "8:00～18:00"
+  },
+  {
+    "id": 1160,
+    "shopName": "鳥栖木材",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【木材及び建築一般】",
+    "address": "鳥栖市宿町1248-5　",
+    "tel": "0942-83-2048",
+    "holiday": "日曜、祝日",
+    "businessHour": "8：00～18：00"
+  },
+  {
+    "id": 1161,
+    "shopName": "メガネのヨネザワ　鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【眼鏡販売】",
+    "address": "鳥栖市本町2丁目33-3　",
+    "tel": "0942-84-4230",
+    "holiday": "元日のみ",
+    "businessHour": "10：00～19：00"
+  },
+  {
+    "id": 1162,
+    "shopName": "ギフト・仕出し料理　西依",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【】",
+    "address": "鳥栖市今町764　",
+    "tel": "0942-84-0132",
+    "holiday": "なし",
+    "businessHour": "9：00～19：00"
+  },
+  {
+    "id": 1163,
+    "shopName": "原岡酒店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【酒類販売業】",
+    "address": "鳥栖市藤木町1184-1　",
+    "tel": "0942-82-4569",
+    "holiday": "毎週日曜日",
+    "businessHour": "9：00～19：00"
+  },
+  {
+    "id": 1164,
+    "shopName": "ＪＴＢトラベルサロン　鳥栖",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【旅行業】",
+    "address": "鳥栖市宿町1002-3　",
+    "tel": "0942-87-3611",
+    "holiday": "なし",
+    "businessHour": "平日9：30～18：00　土日祝9：30～14：30"
+  },
+  {
+    "id": 1165,
+    "shopName": "モスバーガー　鳥栖バイパス店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【ハンバーガー店】",
+    "address": "鳥栖市古賀町330-1　",
+    "tel": "0942-82-4118",
+    "holiday": "なし",
+    "businessHour": "8：00～24：00"
+  },
+  {
+    "id": 1166,
+    "shopName": "菓子工房　こが",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【菓子製造小売業】",
+    "address": "鳥栖市本町2丁目39　",
+    "tel": "0942-82-3610",
+    "holiday": "毎週水曜日、（第三火曜日）",
+    "businessHour": "9：00～18：00　日・祝日9：00～17：00"
+  },
+  {
+    "id": 1167,
+    "shopName": "回転寿司しげなが　弥生が丘店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【】",
+    "address": "鳥栖市弥生が丘5丁目4番　",
+    "tel": "0942-82-3707",
+    "holiday": "不定休",
+    "businessHour": "11：00～21：00　(蔓延防止期間中は、20：00までの営業)"
+  },
+  {
+    "id": 1168,
+    "shopName": "クリニック.サロンＫＡＩ美容室",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【美容室】",
+    "address": "鳥栖市元町1336-6　",
+    "tel": "0942-85-2345",
+    "holiday": "月曜日、第3日曜日、月曜日",
+    "businessHour": "9：00～19：00"
+  },
+  {
+    "id": 1169,
+    "shopName": "鳥栖プレミアム・アウトレット（飲食店以外）",
+    "exclusive": false,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【大型商業施設（アウトレット）】",
+    "address": "鳥栖市弥生が丘8-1　",
+    "tel": "0942-87-7370",
+    "holiday": "2月第３木曜日",
+    "businessHour": "物販・フードコート　10：00～20：00　/　レストラン　11：00～21：00　*一部店舗を除く"
+  },
+  {
+    "id": 1170,
+    "shopName": "焼肉　李庵",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【焼肉店】",
+    "address": "鳥栖市京町792-27　",
+    "tel": "0942-83-3700",
+    "holiday": "不定休",
+    "businessHour": "（昼の部11：00～14：00）（夜の部17：00～22：00　金・土・祝日前23：00）"
+  },
+  {
+    "id": 1171,
+    "shopName": "デンキとレコードのさとう",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【家電販売、CD販売】",
+    "address": "鳥栖市本鳥栖町662-4　",
+    "tel": "0942-83-2121",
+    "holiday": "月曜日",
+    "businessHour": "9：30～19：00"
+  },
+  {
+    "id": 1172,
+    "shopName": "山ノ内製菓",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【菓子】",
+    "address": "鳥栖市田代大官町821-1　",
+    "tel": "0942-82-2771",
+    "holiday": "毎週水曜日",
+    "businessHour": "9：00～19：00"
+  },
+  {
+    "id": 1173,
+    "shopName": "紅屋呉服店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【呉服・婦人服・学生服・寝具・肌着・贈答品他】",
+    "address": "鳥栖市田代上町234　",
+    "tel": "0942-82-2703",
+    "holiday": "毎週火曜日",
+    "businessHour": "9：30～19：00"
+  },
+  {
+    "id": 1174,
+    "shopName": "藤本利久堂表具店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【ふすま、障子の貼り替え、新調。掛け軸の仕立て直し等】",
+    "address": "鳥栖市桜町1238-8　",
+    "tel": "0942-82-3316",
+    "holiday": "年中無休",
+    "businessHour": "10：00～19：00"
+  },
+  {
+    "id": 1175,
+    "shopName": "ハンバーグ・オニオン　鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【ハンバーグ専門店】",
+    "address": "鳥栖市田代大官町878-3　",
+    "tel": "0942-81-5070",
+    "holiday": "毎週水曜日",
+    "businessHour": "11：00～21：00"
+  },
+  {
+    "id": 1176,
+    "shopName": "ケーズデンキ鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【家電量販店】",
+    "address": "鳥栖市轟木町1198　",
+    "tel": "0942-81-3211",
+    "holiday": "1月1日のみ",
+    "businessHour": "10：00～20：00"
+  },
+  {
+    "id": 1177,
+    "shopName": "ニパチ鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市本通町1-802-15　",
+    "tel": "0942-84-3928",
+    "holiday": "年中無休",
+    "businessHour": "17：00～2：00"
+  },
+  {
+    "id": 1178,
+    "shopName": "や台ずし鳥栖町",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市本通町1-810-16　",
+    "tel": "0942-83-1628",
+    "holiday": "年中無休",
+    "businessHour": "16：00～2：00"
+  },
+  {
+    "id": 1179,
+    "shopName": "園木酒店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【酒・食品】",
+    "address": "鳥栖市田代本町1332-7　",
+    "tel": "0942-83-3220",
+    "holiday": "不定休",
+    "businessHour": "8：00～20：00"
+  },
+  {
+    "id": 1180,
+    "shopName": "有限会社　鳥栖タクシー",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【タクシー】",
+    "address": "鳥栖市曽根崎1561番地7　",
+    "tel": "0942-83-2272",
+    "holiday": "なし",
+    "businessHour": "6：00～翌日2：00"
+  },
+  {
+    "id": 1181,
+    "shopName": "佐藤生花店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【】",
+    "address": "鳥栖市本通町2-1050-14　",
+    "tel": "0942-82-2457",
+    "holiday": "火曜日",
+    "businessHour": "平日9時～19時　土・日・祝9時～18時"
+  },
+  {
+    "id": 1182,
+    "shopName": "株式会社　さかえフーズ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【明太子販売】",
+    "address": "鳥栖市藤木町字若桜4番1　",
+    "tel": "0942-84-2741",
+    "holiday": "日曜日・祝日",
+    "businessHour": "9：00～17：00"
+  },
+  {
+    "id": 1183,
+    "shopName": "インド料理　ゴウサハラ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【インド料理、カレーなど】",
+    "address": "鳥栖市轟木町1114-2　",
+    "tel": "0942-82-2630",
+    "holiday": "なし",
+    "businessHour": "土日・祝日11：00～22：30　月～金11：00～15：00、17：00～22：30"
+  },
+  {
+    "id": 1184,
+    "shopName": "濵かつ鳥栖バイパス店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【とんかつ専門店　テイクアウト各種】",
+    "address": "鳥栖市古賀町62　",
+    "tel": "0942-84-0965",
+    "holiday": "なし",
+    "businessHour": "11時～23時"
+  },
+  {
+    "id": 1185,
+    "shopName": "(有)ニューポーン鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【質預かり・買取・販売】",
+    "address": "鳥栖市蔵上3丁目102番地　",
+    "tel": "0942-83-0555",
+    "holiday": "木曜日",
+    "businessHour": "10：00～19：00"
+  },
+  {
+    "id": 1186,
+    "shopName": "ekusie",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【造園・外構工事】",
+    "address": "鳥栖市江島町3256-508　",
+    "tel": "0120-80-3978",
+    "holiday": "水曜日（他不定休有り）",
+    "businessHour": "10：00～17：00"
+  },
+  {
+    "id": 1189,
+    "shopName": "新鳥栖駅観光案内所",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【】",
+    "address": "鳥栖市原古賀町字一本松220-2　",
+    "tel": "0942-85-8108",
+    "holiday": "なし",
+    "businessHour": "9:00～18:00"
+  },
+  {
+    "id": 1190,
+    "shopName": "Sun's kitchen",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【弁当・コッペサンドの販売・宅配】",
+    "address": "鳥栖市東町1丁目1019-25　",
+    "tel": "0942-55-3387",
+    "holiday": "日曜・祝日",
+    "businessHour": "7:00～9:00　11:00～14:00　17:00～20:00"
+  },
+  {
+    "id": 1191,
+    "shopName": "ワンカルビ　鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【焼肉レストラン】",
+    "address": "鳥栖市驫木町1173ライフガーデン　",
+    "tel": "0942-84-4129",
+    "holiday": "1月1日",
+    "businessHour": "平日:17時～24時、土日祝:16時～24時　※要請により営業時間の変更有"
+  },
+  {
+    "id": 1192,
+    "shopName": "hair salon GOOD☆SUN",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【美容室】",
+    "address": "鳥栖市大正町702-8　",
+    "tel": "0942-84-6359",
+    "holiday": "月曜日、第1水曜日、第3月、火曜日",
+    "businessHour": "9:00～19:00（完全予約制）"
+  },
+  {
+    "id": 1195,
+    "shopName": "クロクマコーヒー",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【コーヒー豆販売】",
+    "address": "鳥栖市弥生が丘4丁目111　",
+    "tel": "090-1087-3347",
+    "holiday": "火・水・土・日",
+    "businessHour": "14:00～18:00（予約制）"
+  },
+  {
+    "id": 1196,
+    "shopName": "あおぞら電器",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【電気製品および関連部品・消耗品の販売、電気機器・製品の点検・修理】",
+    "address": "鳥栖市牛原町528-2　山水ビル5号",
+    "tel": "0942-85-7420",
+    "holiday": "日・祝日",
+    "businessHour": "9:00～18:00"
+  },
+  {
+    "id": 1198,
+    "shopName": "イエローハット鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【車用品販売・取付・車検】",
+    "address": "鳥栖市古賀町316-1　",
+    "tel": "0942-85-2300",
+    "holiday": "無し",
+    "businessHour": "10:00～19:00"
+  },
+  {
+    "id": 1199,
+    "shopName": "整体ほぐし処体援隊",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【整体、マッサージ】",
+    "address": "鳥栖市本鳥栖町814-6　上野ビル1F",
+    "tel": "0942-91-0847",
+    "holiday": "不定休",
+    "businessHour": "10:00～22:00（受付21:00まで）"
+  },
+  {
+    "id": 1200,
+    "shopName": "小町食堂",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【いなりすし、巻ずし弁当】",
+    "address": "鳥栖市京町726-5　",
+    "tel": "0942-82-2337",
+    "holiday": "日曜日",
+    "businessHour": "AM7:00～PM6:00"
+  },
+  {
+    "id": 1201,
+    "shopName": "カフェ　ヴィバーチェ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【コーヒー、ランチ】",
+    "address": "鳥栖市平田町2970-1　",
+    "tel": "0942-84-1737",
+    "holiday": "日曜日",
+    "businessHour": "10:00～20:00"
+  },
+  {
+    "id": 1202,
+    "shopName": "地どり料理　しの原",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【地どり屋・居酒屋】",
+    "address": "鳥栖市元町1359-2　メモリー鳥栖1F",
+    "tel": "0942-84-8307",
+    "holiday": "月曜日",
+    "businessHour": "昼11:30～14:00（不定休）夜17:30～23:00（火～日）"
+  },
+  {
+    "id": 1203,
+    "shopName": "お茶の谷口園",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【緑茶、結納品】",
+    "address": "鳥栖市本町1-899　",
+    "tel": "0942-83-4740",
+    "holiday": "木曜日、第3日曜日",
+    "businessHour": "9:00～18:00"
+  },
+  {
+    "id": 1204,
+    "shopName": "有限会社　鳥栖さかい輪業",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【自転車・バイク販売、修理】",
+    "address": "鳥栖市古野町186-6　",
+    "tel": "0942-82-3325",
+    "holiday": "日曜日",
+    "businessHour": "8:30～18:00"
+  },
+  {
+    "id": 1205,
+    "shopName": "丸信商店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【酒類、日用品、雑貨】",
+    "address": "鳥栖市曾根崎町1556-5　",
+    "tel": "0942-82-2801",
+    "holiday": "不定休",
+    "businessHour": "9:00～19:00"
+  },
+  {
+    "id": 1206,
+    "shopName": "本格炭火焼ひだね鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市京町711-23　",
+    "tel": "0942-50-8588",
+    "holiday": "木曜日（第2・4水曜日）",
+    "businessHour": "平日17:00～23:00　金・土17:00～24:00"
+  },
+  {
+    "id": 1207,
+    "shopName": "株式会社　鳥栖セントラルゴルフ練習場",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【ゴルフ練習場】",
+    "address": "鳥栖市萱方町294　",
+    "tel": "0942-83-4779",
+    "holiday": "無し",
+    "businessHour": "8:30～22:00"
+  },
+  {
+    "id": 1208,
+    "shopName": "おひさまカイロプラクティック",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【カイロプラクティック施術業】",
+    "address": "鳥栖市元町1340-6　",
+    "tel": "0942-85-8449",
+    "holiday": "日・祝祭日",
+    "businessHour": "月～金10:00～20:00最終受付、土10:00～15:00最終受付"
+  },
+  {
+    "id": 1209,
+    "shopName": "カラオケBANK",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【】",
+    "address": "鳥栖市本通町1丁目802-3　",
+    "tel": "0942-82-5530",
+    "holiday": "無し",
+    "businessHour": "9:00～24:00"
+  },
+  {
+    "id": 1211,
+    "shopName": "キーステーション大野",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【合鍵製作、錠前取付】",
+    "address": "鳥栖市萱方町178-7　",
+    "tel": "090-2519-3363",
+    "holiday": "日・祝",
+    "businessHour": "8:00～17:30"
+  },
+  {
+    "id": 1212,
+    "shopName": "蕎麦　和三郎",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【冷凍生麵、お持ち帰り専門店】",
+    "address": "鳥栖市萱方町178-7　",
+    "tel": "090-3191-7100",
+    "holiday": "日・祝",
+    "businessHour": "10:00～17:30"
+  },
+  {
+    "id": 1213,
+    "shopName": "Dining Toride",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市大正町721-1　",
+    "tel": "0942-81-4333",
+    "holiday": "無し",
+    "businessHour": "17:30～24:00"
+  },
+  {
+    "id": 1214,
+    "shopName": "宵処",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市本鳥栖町537-17　",
+    "tel": "0942-85-0623",
+    "holiday": "不定休",
+    "businessHour": "18:00～24:00"
+  },
+  {
+    "id": 1215,
+    "shopName": "株式会社　宝本建設",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【建設業】",
+    "address": "鳥栖市西新町1428-72　",
+    "tel": "0942-82-6957",
+    "holiday": "土日祝",
+    "businessHour": "8:00～17:00"
+  },
+  {
+    "id": 1217,
+    "shopName": "ステーキレストラン花やしき",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【レストラン】",
+    "address": "鳥栖市柚比町字荻野296番地1　",
+    "tel": "0942-83-2000",
+    "holiday": "年末のみ",
+    "businessHour": "11:30～16:00（15:00オーダーストップ）17:00～21:00（20：00オーダーストップ）夏季6～9月30分延長"
+  },
+  {
+    "id": 1218,
+    "shopName": "別館もみじ庵",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【和風料理】",
+    "address": "鳥栖市柚比町字荻野296番地1　",
+    "tel": "0942-83-2000",
+    "holiday": "不定休",
+    "businessHour": "11:30～16:00、17:00～21:00"
+  },
+  {
+    "id": 1219,
+    "shopName": "鳥栖卓球センター",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【】",
+    "address": "鳥栖市桜町1205　",
+    "tel": "080-1775-5803",
+    "holiday": "月曜日",
+    "businessHour": "火～土10:00～21:00　日10:00～17:00"
+  },
+  {
+    "id": 1220,
+    "shopName": "久留米とんこつ盛多や",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【ラーメン】",
+    "address": "鳥栖市本町2丁目1411-1　",
+    "tel": "0942-84-7058",
+    "holiday": "火曜日、第1.3月曜日",
+    "businessHour": "11:00～14:00"
+  },
+  {
+    "id": 1221,
+    "shopName": "さくらの杜　鍼灸整骨院",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【アスリートケア、スポーツ障害】",
+    "address": "鳥栖市下野町1333-1　",
+    "tel": "050-1196-2354",
+    "holiday": "日、祝",
+    "businessHour": "9:00～20:00"
+  },
+  {
+    "id": 1222,
+    "shopName": "Hana Saku Labo",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【脱毛、エステ】",
+    "address": "鳥栖市下野町1333-1　",
+    "tel": "050-1196-2354",
+    "holiday": "日、祝",
+    "businessHour": "9:00～20:00"
+  },
+  {
+    "id": 1223,
+    "shopName": "（株）菅佛具",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【】",
+    "address": "鳥栖市宿町969-1　",
+    "tel": "0942-82-3014",
+    "holiday": "火曜日",
+    "businessHour": "9:30～18:30"
+  },
+  {
+    "id": 1224,
+    "shopName": "喰い道楽　かかし",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市京町781-3　",
+    "tel": "0942-82-7333",
+    "holiday": "火曜日",
+    "businessHour": "18:00～23:00"
+  },
+  {
+    "id": 1225,
+    "shopName": "酒肴三昧　魚平",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【日本料理店】",
+    "address": "鳥栖市京町790-1　",
+    "tel": "0942-85-2230",
+    "holiday": "不定休",
+    "businessHour": "11:00～14:00(O.S)  17:00～21：30(O.S)"
+  },
+  {
+    "id": 1226,
+    "shopName": "有限会社　インターネットアイ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【パソコン教室】",
+    "address": "鳥栖市曾根崎町1516-1　",
+    "tel": "0942-82-8770",
+    "holiday": "日曜日、祝日",
+    "businessHour": "10:00～19:00"
+  },
+  {
+    "id": 1227,
+    "shopName": "志波まんじゅう鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【菓子創造・販売】",
+    "address": "鳥栖市大正町717　",
+    "tel": "0942-85-3016",
+    "holiday": "火曜日",
+    "businessHour": "10:00～19:00"
+  },
+  {
+    "id": 1229,
+    "shopName": "美容サロンwith",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【美容室、カット・パーマ・ヘアカラー、着付け】",
+    "address": "鳥栖市藤木町2439　",
+    "tel": "0942-84-8205",
+    "holiday": "予約制の為、定休日なし",
+    "businessHour": "9:00～19:00"
+  },
+  {
+    "id": 1230,
+    "shopName": "かよ美容室",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【美容業】",
+    "address": "鳥栖市曾根崎町1486-8　",
+    "tel": "0942-82-3609",
+    "holiday": "第1月曜日･火曜日、第3日曜日･月曜日",
+    "businessHour": "9:00～18:00"
+  },
+  {
+    "id": 1231,
+    "shopName": "エディオン田代店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【家電品販売】",
+    "address": "鳥栖市桜町1427-9　",
+    "tel": "0942-84-1641",
+    "holiday": "水曜日",
+    "businessHour": "9:00～19:00"
+  },
+  {
+    "id": 1232,
+    "shopName": "菜蓮二号店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市本通町1丁目804-13　",
+    "tel": "0942-84-0306",
+    "holiday": "月曜日",
+    "businessHour": "18:00～26:00"
+  },
+  {
+    "id": 1233,
+    "shopName": "めん吉",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【うどん店】",
+    "address": "鳥栖市神辺町87番地　",
+    "tel": "0942-82-1087",
+    "holiday": "水曜日",
+    "businessHour": "11:00～21:30"
+  },
+  {
+    "id": 1234,
+    "shopName": "シュープラザ　フレスポ鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【靴小売】",
+    "address": "鳥栖市本鳥栖町537-1フレスポ鳥栖店2Ｆ　",
+    "tel": "0942-81-2533",
+    "holiday": "無し",
+    "businessHour": "10:00～20:00"
+  },
+  {
+    "id": 1235,
+    "shopName": "ドゥーガレット弥生が丘店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【服飾小売業】",
+    "address": "鳥栖市弥生が丘5丁目15番地2　",
+    "tel": "0942-85-8006",
+    "holiday": "月曜日・火曜日",
+    "businessHour": "10:00～19:00"
+  },
+  {
+    "id": 1236,
+    "shopName": "ユーデン松下",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【家庭電気製品】",
+    "address": "鳥栖市蔵上町625-2　",
+    "tel": "0942-83-3416",
+    "holiday": "水曜日",
+    "businessHour": "10:00～19:00"
+  },
+  {
+    "id": 1237,
+    "shopName": "サーティワンアイスクリーム　フレスポ鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【】",
+    "address": "鳥栖市本鳥栖町537-1　",
+    "tel": "0942-83-8048",
+    "holiday": "なし",
+    "businessHour": "10:00～21:00"
+  },
+  {
+    "id": 1238,
+    "shopName": "ファッションステージ　ドリス　鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【婦人服販売、小売】",
+    "address": "鳥栖市本鳥栖町537-1フレスポ鳥栖店1Ｆ　",
+    "tel": "0942-84-9336",
+    "holiday": "無し",
+    "businessHour": "10:00～20:00"
+  },
+  {
+    "id": 1240,
+    "shopName": "ドコモショップ鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【携帯電話、スマートフォン】",
+    "address": "鳥栖市轟木町1803番地10　",
+    "tel": "0942-83-5889",
+    "holiday": "毎週水曜日",
+    "businessHour": "9:30～18:30"
+  },
+  {
+    "id": 1241,
+    "shopName": "ブリヂストンカンツリー俱楽部",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【ゴルフ場】",
+    "address": "鳥栖市村田町朝日986　",
+    "tel": "0942-83-5101",
+    "holiday": "毎月最終日曜日",
+    "businessHour": "7:00～18:00"
+  },
+  {
+    "id": 1242,
+    "shopName": "株式会社　モトシマ鳥栖営業所",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【自動車整備、販売】",
+    "address": "鳥栖市今泉町大字六枝2465番地　",
+    "tel": "0942-83-2465",
+    "holiday": "日曜日、祝日",
+    "businessHour": "8:30～18:00"
+  },
+  {
+    "id": 1243,
+    "shopName": "リラクゼーションサロン　ルフラン鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【リラクゼーション】",
+    "address": "鳥栖市本鳥栖町537-1フレスポ鳥栖1F　",
+    "tel": "0942-84-9350",
+    "holiday": "なし",
+    "businessHour": "10:00～21:00（最終受付20:00）"
+  },
+  {
+    "id": 1244,
+    "shopName": "大福餅店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【菓子製造販売】",
+    "address": "鳥栖市東町2-886　",
+    "tel": "0942-82-3806",
+    "holiday": "日曜日、祭日（注文のみ後休み）",
+    "businessHour": "9:30～17:00"
+  },
+  {
+    "id": 1245,
+    "shopName": "有限会社　山田建設",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【建築、リフォーム工事】",
+    "address": "鳥栖市真木町2050-12　",
+    "tel": "0942-83-7401",
+    "holiday": "日曜日、祝日",
+    "businessHour": "8:00～17:00"
+  },
+  {
+    "id": 1246,
+    "shopName": "セブンイレブン鳥栖本鳥栖町店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【コンビニエンスストアー】",
+    "address": "鳥栖市本鳥栖町379-4　",
+    "tel": "0942-84-2047",
+    "holiday": "なし",
+    "businessHour": "24時間"
+  },
+  {
+    "id": 1247,
+    "shopName": "智泉",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【ピラティス】",
+    "address": "鳥栖市山浦町1419-1　",
+    "tel": "090-4342-6866",
+    "holiday": "なし",
+    "businessHour": "9:00～21:00"
+  },
+  {
+    "id": 1248,
+    "shopName": "村岡総本舗　鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【羊羹、和菓子】",
+    "address": "鳥栖市宿町1012-5　",
+    "tel": "0942-82-2543",
+    "holiday": "なし",
+    "businessHour": "9:00～18:00"
+  },
+  {
+    "id": 1249,
+    "shopName": "サイクルショップカイト鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【自転車販売、修理】",
+    "address": "鳥栖市本通町1-804-8　",
+    "tel": "0942-82-6440",
+    "holiday": "火曜日",
+    "businessHour": "10:00～18:00"
+  },
+  {
+    "id": 1250,
+    "shopName": "レストラン大夢",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【レストラン】",
+    "address": "鳥栖市永吉町617-7　",
+    "tel": "0942-83-8117",
+    "holiday": "年末年始のみ",
+    "businessHour": "9:00～21:30"
+  },
+  {
+    "id": 1251,
+    "shopName": "グッデイ鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【ホームセンター】",
+    "address": "鳥栖市蔵上町670-1　",
+    "tel": "0942-82-3459",
+    "holiday": "なし",
+    "businessHour": "9:00～19:00"
+  },
+  {
+    "id": 1252,
+    "shopName": "Alto Magazzino",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【インテリア雑貨販売店】",
+    "address": "鳥栖市本鳥栖町537-17　",
+    "tel": "0942-50-9527",
+    "holiday": "不定休",
+    "businessHour": "11:00～17:00"
+  },
+  {
+    "id": 1253,
+    "shopName": "(株)　弥生が丘養蜂園",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【国産蜂蜜】",
+    "address": "鳥栖市弥生が丘7-8　",
+    "tel": "0942-85-8456",
+    "holiday": "日曜日",
+    "businessHour": "9:00～16:00"
+  },
+  {
+    "id": 1254,
+    "shopName": "マックスバリュ鳥栖村田店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【】",
+    "address": "鳥栖市村田町707-1　",
+    "tel": "0942-87-4848",
+    "holiday": "なし",
+    "businessHour": "24時間"
+  },
+  {
+    "id": 1255,
+    "shopName": "セブンイレブン鳥栖基里小学校前",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【コンビニエンスストア】",
+    "address": "鳥栖市曾根崎町1413-5　",
+    "tel": "0942-82-2552",
+    "holiday": "なし",
+    "businessHour": "24時間"
+  },
+  {
+    "id": 1256,
+    "shopName": "炭火やきとり中村屋",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市布津原町62-128　",
+    "tel": "0942-83-1448",
+    "holiday": "火曜日",
+    "businessHour": "17:30～24:00(ラストオーダー23:00)"
+  },
+  {
+    "id": 1257,
+    "shopName": "小川時計店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【】",
+    "address": "鳥栖市京町773-1　",
+    "tel": "0942-82-2886",
+    "holiday": "日曜日",
+    "businessHour": "10:00～18:30"
+  },
+  {
+    "id": 1259,
+    "shopName": "愛妻手羽唐",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【手羽先からあげ他テイクアウト】",
+    "address": "鳥栖市宿町1404-1　",
+    "tel": "0942-87-7676",
+    "holiday": "月曜日＋不定休",
+    "businessHour": "平日11:00～13:30、16:00～18:30　土日祝11:00～18:00"
+  },
+  {
+    "id": 1260,
+    "shopName": "伊藤酒店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【酒類小売業】",
+    "address": "鳥栖市田代昌町77　",
+    "tel": "0942-83-2481",
+    "holiday": "日曜日",
+    "businessHour": "9:00～20:00"
+  },
+  {
+    "id": 1261,
+    "shopName": "自立学習RED　鳥栖旭教室",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【学習塾】",
+    "address": "鳥栖市西田町234-12　",
+    "tel": "0942-85-7980",
+    "holiday": "月曜、日曜",
+    "businessHour": "13:00～21:00"
+  },
+  {
+    "id": 1262,
+    "shopName": "八蔵　鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市宿町716-8　",
+    "tel": "0942-81-3707",
+    "holiday": "月曜日＋不定休",
+    "businessHour": "月～木･日祝：17:00～23:00　金･土･祝前日･連休中日：17:00～24:00"
+  },
+  {
+    "id": 1263,
+    "shopName": "ウェルカムゴルフクラブ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【ゴルフ練習場、ショートコース】",
+    "address": "鳥栖市村田町986-36　",
+    "tel": "0942-83-9001",
+    "holiday": "なし",
+    "businessHour": "平日9:00～21:30　日祝8:00～21:00"
+  },
+  {
+    "id": 1264,
+    "shopName": "希多八",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市本町1丁目932-2　",
+    "tel": "0942-84-8188",
+    "holiday": "月曜日、火曜日",
+    "businessHour": "17:00～"
+  },
+  {
+    "id": 1265,
+    "shopName": "稲葉眼鏡屋",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【メガネ、補聴器、時計】",
+    "address": "鳥栖市東町1丁目1045-2　",
+    "tel": "0942-82-1783",
+    "holiday": "木曜日",
+    "businessHour": "10:00～18:30"
+  },
+  {
+    "id": 1266,
+    "shopName": "酒家　魚肉菜　虹晴れ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市大正町722-3　",
+    "tel": "0942-50-6772",
+    "holiday": "不定休",
+    "businessHour": "17:00～23:30"
+  },
+  {
+    "id": 1268,
+    "shopName": "スナックよかろ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【スナック】",
+    "address": "鳥栖市京町784-5　銀映ビル1F",
+    "tel": "070-5403-9506",
+    "holiday": "水曜日、日曜日",
+    "businessHour": "20:00～26:00"
+  },
+  {
+    "id": 1269,
+    "shopName": "セブンイレブン　鳥栖大正町店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【小売店】",
+    "address": "鳥栖市大正町720-5　",
+    "tel": "0942-82-8515",
+    "holiday": "なし",
+    "businessHour": "24時間営業"
+  },
+  {
+    "id": 1270,
+    "shopName": "玄界灘　直送　誠大",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【魚介類販売】",
+    "address": "鳥栖市本鳥栖町537-1フレスポ1F　",
+    "tel": "0942-84-9333",
+    "holiday": "なし",
+    "businessHour": "10:00～20:00"
+  },
+  {
+    "id": 1271,
+    "shopName": "海鮮酒場　誠大",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市本鳥栖町811-3　",
+    "tel": "080-4274-7602",
+    "holiday": "日曜日",
+    "businessHour": "11:30～14:30　18:00～24:00"
+  },
+  {
+    "id": 1273,
+    "shopName": "口福居酒屋きわみ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市本鳥栖町537-16　",
+    "tel": "0942-87-5606",
+    "holiday": "日曜日",
+    "businessHour": "18:00～24:00"
+  },
+  {
+    "id": 1275,
+    "shopName": "オーディオ・ノグチ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【家電品】",
+    "address": "鳥栖市本町1丁目959-3　",
+    "tel": "0942-83-8856",
+    "holiday": "不定休",
+    "businessHour": "9:30～19:00"
+  },
+  {
+    "id": 1276,
+    "shopName": "ヴァーサタイル",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【多国籍料理】",
+    "address": "鳥栖市本鳥栖町704-12　",
+    "tel": "0942-83-8533",
+    "holiday": "日曜日",
+    "businessHour": "11:30～15:00　18:00～22:30"
+  },
+  {
+    "id": 1278,
+    "shopName": "鳥栖スポルト接骨院",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【医療サービス、トレーナー業、セルフケア用品販売】",
+    "address": "鳥栖市本町１丁目962-1　",
+    "tel": "0942-55-9645",
+    "holiday": "第2・4・5土曜日、日曜日、祝祭日休診",
+    "businessHour": "月・火・水・金8：30～12：30、14：00～20：00／木・第1.3土曜日8：30～12：30"
+  },
+  {
+    "id": 1280,
+    "shopName": "カットハウスＫ＆西",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【理容業】",
+    "address": "鳥栖市今泉町2496-2　",
+    "tel": "0942-85-2038",
+    "holiday": "毎週月曜日、第3日月曜連休",
+    "businessHour": "8:30～19:00"
+  },
+  {
+    "id": 1281,
+    "shopName": "セブンイレブン　鳥栖中央店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【コンビニエンスストア】",
+    "address": "鳥栖市本町1-967　",
+    "tel": "0942-82-1256",
+    "holiday": "なし",
+    "businessHour": "24時間営業"
+  },
+  {
+    "id": 1282,
+    "shopName": "（株）西鉄ストア　あんくる夢市場弥生が丘店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【小売】",
+    "address": "鳥栖市弥生が丘1-36　",
+    "tel": "0942-87-4011",
+    "holiday": "1月1日・2日のみ",
+    "businessHour": "10：00～21：00"
+  },
+  {
+    "id": 1283,
+    "shopName": "キャンパスショップ日乃丸屋",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【学生服、セーラー服】",
+    "address": "鳥栖市大正町771-5　",
+    "tel": "0942-82-2642",
+    "holiday": "火曜日",
+    "businessHour": "10:00～18:30"
+  },
+  {
+    "id": 1284,
+    "shopName": "洋服の青山　鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【ビジネス関連商品全般(メンズ・レディス)】",
+    "address": "鳥栖市養父町字布津原56番地1　",
+    "tel": "0942-84-4757",
+    "holiday": "なし",
+    "businessHour": "平日：10：00～19：30　土日祝：10：00～20：00"
+  },
+  {
+    "id": 1285,
+    "shopName": "祐徳旅行（株）鳥栖営業所",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【旅行業】",
+    "address": "鳥栖市本町2丁目西浦畑33-1　",
+    "tel": "0942-82-2817",
+    "holiday": "日曜日、祝日および第2第4土曜日",
+    "businessHour": "平日9:00～18:00　土曜日9:00～15:00"
+  },
+  {
+    "id": 1286,
+    "shopName": "旬の肴と旨い酒ぼばる",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【】",
+    "address": "鳥栖市京町792-26　",
+    "tel": "0942-83-8066",
+    "holiday": "火曜日",
+    "businessHour": "17:30～24:00"
+  },
+  {
+    "id": 1287,
+    "shopName": "博多食肉　フレスポ鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【食肉販売】",
+    "address": "鳥栖市本鳥栖町537-1 (フレスポ鳥栖店内)　",
+    "tel": "0942-83-8729",
+    "holiday": "なし",
+    "businessHour": "10：00～20：00"
+  },
+  {
+    "id": 1288,
+    "shopName": "FRENCH DINING&BAR VOYAGE",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【】",
+    "address": "鳥栖市本鳥栖町704-11　",
+    "tel": "0942-82-3210",
+    "holiday": "火曜日",
+    "businessHour": "12:00～15:00　18:00～22:00"
+  },
+  {
+    "id": 1289,
+    "shopName": "有限会社　蛭子丸",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【】",
+    "address": "鳥栖市大正町760番地3　",
+    "tel": "0942-84-0671",
+    "holiday": "月曜日",
+    "businessHour": "11:30～14:00　18:00～22:00"
+  },
+  {
+    "id": 1290,
+    "shopName": "お米屋さんのサンドイッチ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【】",
+    "address": "鳥栖市江島町3066　",
+    "tel": "0942-81-1222",
+    "holiday": "なし",
+    "businessHour": "10:00～18:00"
+  },
+  {
+    "id": 1292,
+    "shopName": "ディスカウントドラッグコスモス　鳥栖今泉店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【ドラッグストア】",
+    "address": "鳥栖市今泉町2260-1　",
+    "tel": "0942-81-1715",
+    "holiday": "元日",
+    "businessHour": "10：00～21：00"
+  },
+  {
+    "id": 1293,
+    "shopName": "ディスカウントドラッグコスモス　養父店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【ドラッグストア】",
+    "address": "鳥栖市養父町479　",
+    "tel": "0942-87-5550",
+    "holiday": "元日",
+    "businessHour": "10：00～21：00"
+  },
+  {
+    "id": 1294,
+    "shopName": "韓国家庭料理店　焼肉百済",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【】",
+    "address": "鳥栖市神辺町87-1　",
+    "tel": "0942-50-5985",
+    "holiday": "水曜日",
+    "businessHour": "17:00～22:30（O.S）"
+  },
+  {
+    "id": 1295,
+    "shopName": "パレット鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【衣料品、雑貨、寝具等】",
+    "address": "鳥栖市本鳥栖町537-1フレスポ2Ｆ　",
+    "tel": "0942-87-3020",
+    "holiday": "なし",
+    "businessHour": "10:00～21:00"
+  },
+  {
+    "id": 1296,
+    "shopName": "ザ・ビッグ鳥栖蔵上店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【】",
+    "address": "鳥栖市蔵上4丁目3-3　",
+    "tel": "0942-81-5678",
+    "holiday": "なし",
+    "businessHour": "9:00～22:00"
+  },
+  {
+    "id": 1297,
+    "shopName": "やきとり　達",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【やきとり】",
+    "address": "鳥栖市京町722-25　京町ビル1階",
+    "tel": "080-3371-1853",
+    "holiday": "日曜日",
+    "businessHour": "18:00～24:00"
+  },
+  {
+    "id": 1298,
+    "shopName": "ビューティーレベルアップステージ美☆Sket",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【美容室】",
+    "address": "鳥栖市真木町1138-1　",
+    "tel": "0942-50-8772",
+    "holiday": "不定休",
+    "businessHour": "10:00～19:00"
+  },
+  {
+    "id": 1299,
+    "shopName": "KITORI",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【からあげテイクアウト】",
+    "address": "鳥栖市本町2丁目1251-12　",
+    "tel": "0942-83-9222",
+    "holiday": "水曜日",
+    "businessHour": "11:00～19:00"
+  },
+  {
+    "id": 1300,
+    "shopName": "ホームプラザナフコ鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【ホームセンター】",
+    "address": "鳥栖市真木町1712番地1　",
+    "tel": "0942-84-4895",
+    "holiday": "なし",
+    "businessHour": "8:15～19:45"
+  },
+  {
+    "id": 1301,
+    "shopName": "ふく福米",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【】",
+    "address": "鳥栖市江島町3066　",
+    "tel": "0942-81-1222",
+    "holiday": "なし",
+    "businessHour": "10：00～18：00"
+  },
+  {
+    "id": 1302,
+    "shopName": "ヘアーサロンハラタケ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【理容業】",
+    "address": "鳥栖市本町1-962-5　",
+    "tel": "0942-82-3612",
+    "holiday": "月曜日、第3日曜日",
+    "businessHour": "8:30～19:00"
+  },
+  {
+    "id": 1303,
+    "shopName": "FUKU CAFE",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【】",
+    "address": "鳥栖市江島町3066　",
+    "tel": "0942-81-1444",
+    "holiday": "なし",
+    "businessHour": "おむすびランチタイム11：30～14：30　カフェタイム15：00～17：00"
+  },
+  {
+    "id": 1305,
+    "shopName": "TSUTAYA　鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【】",
+    "address": "鳥栖市本鳥栖町537-1　フレスポ鳥栖1F　",
+    "tel": "0942-87-7707",
+    "holiday": "年中無休",
+    "businessHour": "10：00～22：00"
+  },
+  {
+    "id": 1306,
+    "shopName": "ヘアー・ワーク",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【理容室】",
+    "address": "鳥栖市儀徳町2024-4　",
+    "tel": "0942-82-4078",
+    "holiday": "毎週月曜、第1火曜、第3日曜",
+    "businessHour": "8:30～18:30（パーマ・カラー受付17:00まで）"
+  },
+  {
+    "id": 1307,
+    "shopName": "和風韓国料理　和牛焼肉　ソウルママ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【韓国料理・焼肉】",
+    "address": "鳥栖市姫方町341-2　",
+    "tel": "0942-50-8882",
+    "holiday": "水曜日",
+    "businessHour": "昼11：30～14：30　夜17：30～22：30（但し、時短期間中は、２１時迄）"
+  },
+  {
+    "id": 1308,
+    "shopName": "ダイレックスライフガーデン鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【小売業】",
+    "address": "鳥栖市轟木町1173番地　",
+    "tel": "0942-81-3350",
+    "holiday": "なし",
+    "businessHour": "9:00～22:00"
+  },
+  {
+    "id": 1309,
+    "shopName": "ダイレックス鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【小売業】",
+    "address": "鳥栖市田代大官町832番地2　",
+    "tel": "0942-81-1148",
+    "holiday": "なし",
+    "businessHour": "9:00～22:00"
+  },
+  {
+    "id": 1310,
+    "shopName": "武田メガネ　フレスポ鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【眼鏡　時計　補聴器】",
+    "address": "鳥栖市本鳥栖町537-1　",
+    "tel": "0942-85-0007",
+    "holiday": "なし",
+    "businessHour": "10:00～20:00"
+  },
+  {
+    "id": 1311,
+    "shopName": "丸屋呉服店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【呉服】",
+    "address": "鳥栖市東町２丁目891の2　",
+    "tel": "0942-82-2332",
+    "holiday": "日曜日",
+    "businessHour": "9:00～18：00"
+  },
+  {
+    "id": 1312,
+    "shopName": "魚蓮坊窯",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【陶器、陶雑貨販売・陶芸体験あり】",
+    "address": "鳥栖市立石町1520　",
+    "tel": "0942-83-3085",
+    "holiday": "火曜日、水曜日",
+    "businessHour": "9:00～18:00"
+  },
+  {
+    "id": 1314,
+    "shopName": "アスタラビスタ鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【スーパー、小売業】",
+    "address": "鳥栖市古賀町311　",
+    "tel": "0942-82-9323",
+    "holiday": "なし",
+    "businessHour": "日曜日9:00～21:00　日曜日以外9:30～21:00"
+  },
+  {
+    "id": 1315,
+    "shopName": "サキ美容室",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【美容室】",
+    "address": "鳥栖市本町2-1456-1　",
+    "tel": "0942-84-5407",
+    "holiday": "月曜日、第3日曜日",
+    "businessHour": "9:00～17:00"
+  },
+  {
+    "id": 1316,
+    "shopName": "御食事処　なかしま",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【一品料理、定食】",
+    "address": "鳥栖市原古賀町761　",
+    "tel": "0942-84-5539",
+    "holiday": "日・月・祝",
+    "businessHour": "17：30～22：00"
+  },
+  {
+    "id": 1317,
+    "shopName": "ハンバーグ専門つばきグリル鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【ハンバーグ店】",
+    "address": "鳥栖市古賀町346-1　",
+    "tel": "094-250-8388",
+    "holiday": "なし",
+    "businessHour": "11:00～22:00"
+  },
+  {
+    "id": 1319,
+    "shopName": "ひなっ子鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【焼鳥屋】",
+    "address": "鳥栖市京町755--25　",
+    "tel": "0942-82-2054",
+    "holiday": "12/31、1/1、1/2",
+    "businessHour": "17:00～22:00"
+  },
+  {
+    "id": 1321,
+    "shopName": "癒し屋Sun萱方店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【リラクゼーションマッサージ】",
+    "address": "鳥栖市萱方町121-12　プレミアム萱方Ⅱ101号室",
+    "tel": "080-1541-1843",
+    "holiday": "火曜日",
+    "businessHour": "11:00～21:00（最終受付19:00）"
+  },
+  {
+    "id": 1322,
+    "shopName": "癒し屋Sun村田店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【リラクゼーションマッサージ】",
+    "address": "鳥栖市村田町986-36　ウェルカムゴルフクラブ内1F",
+    "tel": "080-1735-4477",
+    "holiday": "火曜日",
+    "businessHour": "10:00～20:30（最終受付19:00）"
+  },
+  {
+    "id": 1323,
+    "shopName": "ラーメン店繊月",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【ラーメン店】",
+    "address": "鳥栖市西新町1423-6　",
+    "tel": "0942-83-7121",
+    "holiday": "3/7.3/23 4月以降は毎週月曜日",
+    "businessHour": "11:00～22:00（21:30オーダーストップ）"
+  },
+  {
+    "id": 1324,
+    "shopName": "みの屋うどん鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【うどん、そば、丼物】",
+    "address": "鳥栖市真木町1974　",
+    "tel": "0942-82-0717",
+    "holiday": "なし",
+    "businessHour": "11:00～22:00（木曜日のみ11:00～17:00）"
+  },
+  {
+    "id": 1325,
+    "shopName": "有限会社　雅叙苑",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【お届け専門料理】",
+    "address": "鳥栖市本町2丁目-38　",
+    "tel": "0952-52-5963",
+    "holiday": "月曜日（祝日の場合火曜日）",
+    "businessHour": "9:00～19:00"
+  },
+  {
+    "id": 1326,
+    "shopName": "ひよ子　フレスポ鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【菓子販売】",
+    "address": "鳥栖市本鳥栖町537-1　",
+    "tel": "0942-87-7737",
+    "holiday": "なし",
+    "businessHour": "10:00～20:00"
+  },
+  {
+    "id": 1327,
+    "shopName": "株式会社ヤマダデンキテックランド鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【家電販売】",
+    "address": "鳥栖市本鳥栖町537-1フレスポ鳥栖2F　",
+    "tel": "0942-87-8700",
+    "holiday": "1/1のみ",
+    "businessHour": "10:00～20:00"
+  },
+  {
+    "id": 1328,
+    "shopName": "ザ・ビッグ鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【生鮮スーパー】",
+    "address": "鳥栖市宿町1156-1　",
+    "tel": "0942-81-3882",
+    "holiday": "なし",
+    "businessHour": "9:00～21:00"
+  },
+  {
+    "id": 1330,
+    "shopName": "スナック赤坂",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【スナック】",
+    "address": "鳥栖市京町792　",
+    "tel": "0942-83-0222",
+    "holiday": "月曜日",
+    "businessHour": "20：00～25：00"
+  },
+  {
+    "id": 1331,
+    "shopName": "ディスカウントドラッグコスモス 新鳥栖駅店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【ドラッグストア】",
+    "address": "鳥栖市原古賀町3023　",
+    "tel": "0942-87-1301",
+    "holiday": "元日",
+    "businessHour": "10：00～21：00"
+  },
+  {
+    "id": 1332,
+    "shopName": "鳥栖プレミアム・アウトレット（飲食店）",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【大型商業施設（アウトレット）】",
+    "address": "鳥栖市弥生が丘8-1　",
+    "tel": "0942-87-7370",
+    "holiday": "2月第３木曜日",
+    "businessHour": "物販・フードコート　10：00～20：00　/　レストラン　11：00～21：00　*一部店舗を除く"
+  },
+  {
+    "id": 1333,
+    "shopName": "生パスタ専門店SPALA　鳥栖プレミアム・アウトレット店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【パスタ、イタリアン】",
+    "address": "鳥栖市弥生が丘8-1鳥栖プレミアムアウトレット区画No.685　",
+    "tel": "0942-87-3540",
+    "holiday": "2月第３木曜日",
+    "businessHour": "10:00～20:00（ラストオーダー19:45）"
+  },
+  {
+    "id": 1334,
+    "shopName": "呼子活イカ・博多巻き串　燈",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【いけす・居酒屋・ランチ】",
+    "address": "鳥栖市弥生が丘1-29　ネオハイムビル101　",
+    "tel": "0942-85-7779",
+    "holiday": "不定休",
+    "businessHour": "昼11:30～14：30ラストオーダー　夜17：00～22：30ラストオーダー"
+  },
+  {
+    "id": 1335,
+    "shopName": "石焼きカレーM・I",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【カレー、パスタ】",
+    "address": "鳥栖市本通町1丁目793-1　",
+    "tel": "0942-85-3115",
+    "holiday": "平日店休",
+    "businessHour": "11:00～23:00"
+  },
+  {
+    "id": 1336,
+    "shopName": "Teppan dining HAREMA",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市本通町1丁目810-23　",
+    "tel": "0942-87-5688",
+    "holiday": "不定休",
+    "businessHour": "17:00～23:00"
+  },
+  {
+    "id": 1337,
+    "shopName": "ほっかほっか亭鳥栖大正町店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【弁当製造・販売】",
+    "address": "鳥栖市大正町751-2　",
+    "tel": "0942-87-3888",
+    "holiday": "なし",
+    "businessHour": "9:30～22:00"
+  },
+  {
+    "id": 1338,
+    "shopName": "La,Changee",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【美容業、まつ毛カール、エクステ、眉WAX】",
+    "address": "鳥栖市蔵上4-291　",
+    "tel": "0942-84-9619",
+    "holiday": "日、祝日",
+    "businessHour": "月～金9:30～19:00　土～15:00"
+  },
+  {
+    "id": 1339,
+    "shopName": "公園よこ鍼灸院",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【鍼灸院、よもぎ蒸し】",
+    "address": "鳥栖市本鳥栖町1489-2　",
+    "tel": "070-8570-4473",
+    "holiday": "土、日、祝日",
+    "businessHour": "13:00～19:00"
+  },
+  {
+    "id": 1341,
+    "shopName": "ローソン鳥栖駅前店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【コンビニエンス】",
+    "address": "鳥栖市京町711-1　",
+    "tel": "0942-84-2001",
+    "holiday": "なし",
+    "businessHour": "24時間"
+  },
+  {
+    "id": 1342,
+    "shopName": "ローソン鳥栖高校前店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【コンビニエンス】",
+    "address": "鳥栖市鎗田町432-13　",
+    "tel": "0942-84-0022",
+    "holiday": "なし",
+    "businessHour": "24時間"
+  },
+  {
+    "id": 1343,
+    "shopName": "電's 旭店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【家電販売、修理】",
+    "address": "鳥栖市村田町16-1　",
+    "tel": "0942-82-2663",
+    "holiday": "日、祝日",
+    "businessHour": "9:00～18:00"
+  },
+  {
+    "id": 1344,
+    "shopName": "かつみ屋",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【うどん屋】",
+    "address": "鳥栖市元町1256-4　",
+    "tel": "0942-82-0149",
+    "holiday": "日曜日",
+    "businessHour": "11:00～15:00　17:00～20:00（OS19:45）"
+  },
+  {
+    "id": 1345,
+    "shopName": "アイラッシュサロンFAIRY",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【美容、まつげエクステ】",
+    "address": "鳥栖市東町3丁目912-60　トマトハウス203号",
+    "tel": "090-8211-7300",
+    "holiday": "日、祝日",
+    "businessHour": "10:00～18:00"
+  },
+  {
+    "id": 1346,
+    "shopName": "四季の串揚げ　揚千",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【串揚げ】",
+    "address": "鳥栖市京町726　",
+    "tel": "0942-84-1588",
+    "holiday": "日曜日",
+    "businessHour": "15:00～22:00"
+  },
+  {
+    "id": 1349,
+    "shopName": "あげまき",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【】",
+    "address": "鳥栖市東町2丁目909-1　",
+    "tel": "0942-82-3483",
+    "holiday": "月曜日",
+    "businessHour": "17:00～22:00"
+  },
+  {
+    "id": 1350,
+    "shopName": "石田洋品店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【婦人服小売業】",
+    "address": "鳥栖市萱方町214-7　",
+    "tel": "0942-82-3428",
+    "holiday": "月曜日",
+    "businessHour": "火・木・土（10:00～19:00）水・金（10:00～12:00）日（12:00～19:00）"
+  },
+  {
+    "id": 1351,
+    "shopName": "うな勇",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【うなぎ料理店】",
+    "address": "鳥栖市養父町486-1　",
+    "tel": "0942-85-0320",
+    "holiday": "月曜日",
+    "businessHour": "11:00～15:00（14:30 os）17:00～21:00（20:00 os）"
+  },
+  {
+    "id": 1352,
+    "shopName": "みよし鍼灸治療院",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【はり、きゅう】",
+    "address": "鳥栖市山浦町2425-2　",
+    "tel": "0942-83-6638",
+    "holiday": "不定休",
+    "businessHour": "9:00～19:00"
+  },
+  {
+    "id": 1354,
+    "shopName": "アンテェナアト弥生が丘店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【イタリアンレストラン】",
+    "address": "鳥栖市弥生が丘5丁目210-2　",
+    "tel": "0942-81-2131",
+    "holiday": "水曜日",
+    "businessHour": "(平日)11:00～14:00LO テイクアウト17:00～18:30LO  (土日祝)11:00～14:30LO ディナー17:00～20:00LO"
+  },
+  {
+    "id": 1355,
+    "shopName": "イオン九州株式会社　マックスバリュエクスプレス曽根崎店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【食品、日用雑貨、酒販売（スーパーマーケット）】",
+    "address": "鳥栖市曾根崎町1641-1　",
+    "tel": "0942-84-0037",
+    "holiday": "なし",
+    "businessHour": "24時間営業"
+  },
+  {
+    "id": 1356,
+    "shopName": "Buggy",
+    "exclusive": true,
+    "availableTickets": [
+      "電子"
+    ],
+    "businessType": "飲食【ハンバーガー】",
+    "address": "鳥栖市本鳥栖町537-6-2号　",
+    "tel": "0942-85-9196",
+    "holiday": "水曜日",
+    "businessHour": "11:30～20:00※コロナにつき営業時間変動中"
+  },
+  {
+    "id": 1357,
+    "shopName": "セブンイレブン鳥栖弥生が丘2丁目店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【コンビニ】",
+    "address": "鳥栖市弥生が丘2丁目174　",
+    "tel": "0942-82-3608",
+    "holiday": "なし",
+    "businessHour": "24時間"
+  },
+  {
+    "id": 1358,
+    "shopName": "すたみな太郎　鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【バイキングレストラン】",
+    "address": "鳥栖市蔵上4-127　",
+    "tel": "0942-84-7789",
+    "holiday": "なし",
+    "businessHour": "月～金 昼11:30～15:30 夜17:00～21:00 / 土日祝 昼11:30～16:30 夜16:30～21:00（通常時は全日22:00閉店）"
+  },
+  {
+    "id": 1359,
+    "shopName": "サンドラッグ　弥生が丘店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【ドラッグストア】",
+    "address": "鳥栖市弥生が丘1-32　",
+    "tel": "0942-81-3361",
+    "holiday": "1月1日",
+    "businessHour": "10:00～21:00"
+  },
+  {
+    "id": 1360,
+    "shopName": "KEIKI-経氣-　鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【リラクゼーション業】",
+    "address": "鳥栖市真木町1138-1　美☆Sket内　",
+    "tel": "092-980-7254",
+    "holiday": "不定休",
+    "businessHour": "10:00～20:30（完全予約制）"
+  },
+  {
+    "id": 1361,
+    "shopName": "セブンイレブン鳥栖姫方町店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【コンビニエンス】",
+    "address": "鳥栖市姫方町331-10　",
+    "tel": "0942-82-1434",
+    "holiday": "なし",
+    "businessHour": "24時間"
+  },
+  {
+    "id": 1362,
+    "shopName": "テーマ　パティシエール　ブルーシャン",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【洋菓子店】",
+    "address": "鳥栖市弥生が丘6丁目103番　",
+    "tel": "0942-87-9415",
+    "holiday": "不定休",
+    "businessHour": "10:00～20:00"
+  },
+  {
+    "id": 1363,
+    "shopName": "しげこコレクション",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【婦人服、バッグ、靴】",
+    "address": "鳥栖市大正町764-10　",
+    "tel": "0942-84-0127",
+    "holiday": "日曜日",
+    "businessHour": "10:00～18:00"
+  },
+  {
+    "id": 1364,
+    "shopName": "PORUS CAFE",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【カフェ】",
+    "address": "鳥栖市本鳥栖町537-6　",
+    "tel": "0942-85-9064",
+    "holiday": "不定休",
+    "businessHour": "ランチ11:30～15:00　カフェ15:00～19:00"
+  },
+  {
+    "id": 1365,
+    "shopName": "パン工房　藤（アップルパイ専門店）",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【パン製造】",
+    "address": "鳥栖市立石町1861-1　",
+    "tel": "090-2514-6775",
+    "holiday": "不定休",
+    "businessHour": "平日10:00～18:30　土日祝9:00～19:00"
+  },
+  {
+    "id": 1366,
+    "shopName": "Feliche 鳥栖",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【ピザ、パスタ、オムライス】",
+    "address": "鳥栖市元町1256-4　",
+    "tel": "0942-82-7518",
+    "holiday": "火曜日、不定休",
+    "businessHour": "昼11:00～14:30(LO)　夜18:00～21:00(LO)"
+  },
+  {
+    "id": 1368,
+    "shopName": "アルソア　くすのき",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【化粧品】",
+    "address": "鳥栖市布津原町61-34　",
+    "tel": "0942-85-1547",
+    "holiday": "日曜日、祝日",
+    "businessHour": "10:00～17:00"
+  },
+  {
+    "id": 1371,
+    "shopName": "FermentionイタリアンLincotto",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【イタリアン、パスタ、ピッツァ】",
+    "address": "鳥栖市曽根崎町1311-1　",
+    "tel": "0942-85-8158",
+    "holiday": "月曜日",
+    "businessHour": "11:30～16:00　18:00～22:00"
+  },
+  {
+    "id": 1373,
+    "shopName": "サンリブ鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【小売業】",
+    "address": "鳥栖市本鳥栖町537番地1　フレスポ鳥栖1Ｆ　",
+    "tel": "0942-81-5151",
+    "holiday": "なし",
+    "businessHour": "10：00～21：00"
+  },
+  {
+    "id": 1374,
+    "shopName": "坂本産業株式会社",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【住宅設備機器（キッチン、トイレ、風呂 他）及び設置工事】",
+    "address": "鳥栖市高田町171　",
+    "tel": "0942-83-1879",
+    "holiday": "年末年始及びお盆休みあり",
+    "businessHour": "平日9:00~17:00　日祝日9:30~17:00"
+  },
+  {
+    "id": 1376,
+    "shopName": "(株)ニトリフレスポ鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【家具・インテリア・雑貨】",
+    "address": "鳥栖市本鳥栖町537-1　フレスポ鳥栖2階　",
+    "tel": "0942-81-3250",
+    "holiday": "年中無休",
+    "businessHour": "10:00～21:00"
+  },
+  {
+    "id": 1377,
+    "shopName": "本格炭火焼　焼人",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市本鳥栖町537-33　",
+    "tel": "0942-82-1011",
+    "holiday": "水曜日",
+    "businessHour": "18:00～24:00"
+  },
+  {
+    "id": 1378,
+    "shopName": "トリマル薬品",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【医薬品、健康食品、小売業】",
+    "address": "鳥栖市今泉町2632-1　",
+    "tel": "0942-82-7146",
+    "holiday": "日、祭、祝日",
+    "businessHour": "9：00～18：00"
+  },
+  {
+    "id": 1379,
+    "shopName": "欧風パン　ナカガワ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【パン】",
+    "address": "鳥栖市松原町1725-5　",
+    "tel": "0942-83-7832",
+    "holiday": "日曜日",
+    "businessHour": "9：00～19：00"
+  },
+  {
+    "id": 1380,
+    "shopName": "小粋料理　盥",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市本鳥栖町704-10　",
+    "tel": "0942-83-2215",
+    "holiday": "日曜日",
+    "businessHour": "17:30～23:00"
+  },
+  {
+    "id": 1381,
+    "shopName": "炭火焼　五味鳥",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【焼鳥】",
+    "address": "鳥栖市京町782-16　トスサンビル101",
+    "tel": "0942-82-7504",
+    "holiday": "",
+    "businessHour": "18:00～23:00"
+  },
+  {
+    "id": 1382,
+    "shopName": "セブンイレブン鳥栖曾根崎町店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【コンビニエンスストア】",
+    "address": "鳥栖市曾根崎町1144-1　",
+    "tel": "0942-82-1576",
+    "holiday": "なし",
+    "businessHour": "24時間"
+  },
+  {
+    "id": 1384,
+    "shopName": "ミスタードーナツ　フレスポ鳥栖ショップ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【飲食業】",
+    "address": "鳥栖市本鳥栖長537-1　",
+    "tel": "0942-81-2475",
+    "holiday": "なし",
+    "businessHour": "9：00～21：30"
+  },
+  {
+    "id": 1385,
+    "shopName": "食事処　（栖）すみか",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【弁当、オードブル、その他】",
+    "address": "鳥栖市原町857　",
+    "tel": "0942-82-3448",
+    "holiday": "日、祭、正月",
+    "businessHour": "11:00～14:00　17:00～21:00最終オーダー"
+  },
+  {
+    "id": 1386,
+    "shopName": "さち整体堂",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【整体】",
+    "address": "鳥栖市土井町207-4　",
+    "tel": "0942-83-9241",
+    "holiday": "",
+    "businessHour": "9：00～19：00"
+  },
+  {
+    "id": 1387,
+    "shopName": "株式会社　大同工務店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【建築一式】",
+    "address": "鳥栖市神辺町1418-4　",
+    "tel": "0942-83-3208",
+    "holiday": "日、祝",
+    "businessHour": "8：00～17：00"
+  },
+  {
+    "id": 1388,
+    "shopName": "佐藤自動車・鈑金・塗装",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【自動車修理・車検他】",
+    "address": "鳥栖市儀徳町3274-1　",
+    "tel": "0942-83-2639",
+    "holiday": "日曜",
+    "businessHour": "8：00～19：30"
+  },
+  {
+    "id": 1389,
+    "shopName": "牛船",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【炭焼ハンバーグ】",
+    "address": "鳥栖市蔵上2-121　",
+    "tel": "0942-84-4175",
+    "holiday": "月曜日、第１月・火",
+    "businessHour": "11:00~14:30　17:00~19:40(オーダーストップ)"
+  },
+  {
+    "id": 1390,
+    "shopName": "マッサージサロンこころ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【マッサージ】",
+    "address": "鳥栖市弥生が丘6-78　",
+    "tel": "0942-83-5767",
+    "holiday": "不定休",
+    "businessHour": "平日(20:00～23:00)　日祝(終日)　完全予約制"
+  },
+  {
+    "id": 1391,
+    "shopName": "資さんうどん　鳥栖真木店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【うどん、そば、丼店】",
+    "address": "鳥栖市真木町1113-6　",
+    "tel": "0942-50-5105",
+    "holiday": "無",
+    "businessHour": "24時間営業"
+  },
+  {
+    "id": 1392,
+    "shopName": "ホテルビアントス",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【宿泊】",
+    "address": "鳥栖市酒井西町789-1　",
+    "tel": "0942-82-8888",
+    "holiday": "無",
+    "businessHour": "6:30～24:00"
+  },
+  {
+    "id": 1393,
+    "shopName": "サロン　LuLuLu",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【女性専用リラクゼーションマッサージサロン】",
+    "address": "鳥栖市弥生が丘5-238モントディダンスD204　",
+    "tel": "080-3226-0680",
+    "holiday": "不定休",
+    "businessHour": "10:00～21:00"
+  },
+  {
+    "id": 1394,
+    "shopName": "焼肉きんぐ鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【焼肉】",
+    "address": "鳥栖市轟木町1067-1　",
+    "tel": "0942-85-9298",
+    "holiday": "年中無休",
+    "businessHour": "平日17:00～24:00　土日祝11:30～24:00"
+  },
+  {
+    "id": 1395,
+    "shopName": "丸源ラーメン鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【ラーメン】",
+    "address": "鳥栖市轟木町1058-1　",
+    "tel": "0942-85-8616",
+    "holiday": "年中無休",
+    "businessHour": "11:00～25:00"
+  },
+  {
+    "id": 1396,
+    "shopName": "うふふカフェ鳥栖元町店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【カフェレストラン】",
+    "address": "鳥栖市元町1348-2　",
+    "tel": "0942-83-0007",
+    "holiday": "不定休",
+    "businessHour": "11:00~23:00"
+  },
+  {
+    "id": 1397,
+    "shopName": "ドラッグストアモリ　鳥栖村田店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【医薬品・化粧品・生活用品・食料品の販売】",
+    "address": "鳥栖市村田町166番地2　",
+    "tel": "0942-50-5173",
+    "holiday": "なし",
+    "businessHour": "9：00～24：00"
+  },
+  {
+    "id": 1399,
+    "shopName": "おきなわ県民食堂（新鳥栖道の市場内）",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【】",
+    "address": "鳥栖市蔵上4-120　",
+    "tel": "0942-50-9997",
+    "holiday": "水曜日",
+    "businessHour": "11：00～22：00（L.O. 21:00）"
+  },
+  {
+    "id": 1400,
+    "shopName": "光月",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市蔵上4丁目120　",
+    "tel": "0942-50-9997",
+    "holiday": "水曜日",
+    "businessHour": "11：00～22：00"
+  },
+  {
+    "id": 1401,
+    "shopName": "みみたぶう",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市鎗田町405-2　",
+    "tel": "0942-82-2346",
+    "holiday": "月曜日",
+    "businessHour": "18：00～24：00"
+  },
+  {
+    "id": 1402,
+    "shopName": "鳥栖ふるかわ整骨院",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【整骨院】",
+    "address": "鳥栖市高田町47-1　",
+    "tel": "0942-50-5134",
+    "holiday": "日曜・祝祭日",
+    "businessHour": "月～金9：00～12：30　15：00～20：00　土8：30～14：00"
+  },
+  {
+    "id": 1403,
+    "shopName": "うなぎ牛めし　さん助",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【丼・焼き料理の提供、テイクアウト】",
+    "address": "鳥栖市蔵上4-120　新鳥栖道の市場",
+    "tel": "0942-50-8332",
+    "holiday": "毎週水曜日",
+    "businessHour": "11:00-22:00"
+  },
+  {
+    "id": 1404,
+    "shopName": "自立学習RED　鳥栖教室",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【学習塾】",
+    "address": "鳥栖市本通町1丁目855-3　",
+    "tel": "0942-85-8682",
+    "holiday": "日曜日・月曜日",
+    "businessHour": "13:00-21:30"
+  },
+  {
+    "id": 1405,
+    "shopName": "くすの樹",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【軽食、雑貨、食品、ワークショップ】",
+    "address": "鳥栖市弥生が丘二丁目135-2　",
+    "tel": "0942-83-1151",
+    "holiday": "日曜日・祝日",
+    "businessHour": "10:00-13:30, 14:15-17:00　カフェオーダーは16:30まで"
+  },
+  {
+    "id": 1406,
+    "shopName": "ACUBI color & spa",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【美容サロン】",
+    "address": "鳥栖市今泉町2125-19　",
+    "tel": "090-7514-1930",
+    "holiday": "日曜日・祝日",
+    "businessHour": "10:00-18:00"
+  },
+  {
+    "id": 1407,
+    "shopName": "ジンベエ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市蔵上4丁目120　",
+    "tel": "0942-50-9997",
+    "holiday": "水曜日",
+    "businessHour": "11:00-22:00"
+  },
+  {
+    "id": 1408,
+    "shopName": "エレックスなかしま",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【家電品販売】",
+    "address": "鳥栖市田代本町1391　",
+    "tel": "0942-82-4113",
+    "holiday": "日曜日",
+    "businessHour": "9:00-18:00"
+  },
+  {
+    "id": 1409,
+    "shopName": "鐘ヶ江建設",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【建設業】",
+    "address": "鳥栖市加藤田町1丁目21-34　",
+    "tel": "0942-83-0368",
+    "holiday": "日曜日",
+    "businessHour": "8:00-17:00"
+  },
+  {
+    "id": 1410,
+    "shopName": "佐賀軒ちゃんぽん＆ステーキ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【ちゃんぽん・ステーキ】",
+    "address": "鳥栖市古賀町529-9　",
+    "tel": "0942-84-0188",
+    "holiday": "なし",
+    "businessHour": "11:00-15:30, 17:30-21:30"
+  },
+  {
+    "id": 1411,
+    "shopName": "ライフガーデン鍼灸接骨院",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【鍼灸、整体、セルフケア用品販売】",
+    "address": "鳥栖市鳥栖市轟木町1173番地　",
+    "tel": "0942-25-8397",
+    "holiday": "不定休",
+    "businessHour": "9:00-20:30"
+  },
+  {
+    "id": 1412,
+    "shopName": "株式会社篠原工務店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【建築、リフォーム等】",
+    "address": "鳥栖市高田町43-1　",
+    "tel": "0942-82-2177",
+    "holiday": "日、第1第3土",
+    "businessHour": "8:30-17:00"
+  },
+  {
+    "id": 1413,
+    "shopName": "目利きの銀次　ライフガーデン鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【居酒屋】",
+    "address": "鳥栖市轟木町1173 　ライフガーデン鳥栖1階",
+    "tel": "0942-81-3588",
+    "holiday": "なし",
+    "businessHour": "月～金16:0-23:00、土日祝11:00-23:00"
+  },
+  {
+    "id": 1414,
+    "shopName": "的野水産",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【魚類全般】",
+    "address": "鳥栖市古賀町319　",
+    "tel": "0942-82-5441",
+    "holiday": "なし",
+    "businessHour": "10:00AM-7:30PM"
+  },
+  {
+    "id": 1415,
+    "shopName": "エディオン　カワサキ電器",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【家電品販売】",
+    "address": "鳥栖市藤木町1151-9　",
+    "tel": "0942-85-2147",
+    "holiday": "日曜日",
+    "businessHour": "9:00-18:00"
+  },
+  {
+    "id": 1416,
+    "shopName": "株式会社　タシマ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【ペイント販売】",
+    "address": "鳥栖市原古賀町345-1　",
+    "tel": "0942-82-3730",
+    "holiday": "日、祝日",
+    "businessHour": "8:00-18:00"
+  },
+  {
+    "id": 1417,
+    "shopName": "株式会社　十三屋商店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【酒類、食品】",
+    "address": "鳥栖市宿町1382　",
+    "tel": "0942-82-2286",
+    "holiday": "日曜日",
+    "businessHour": "9:00-19:30"
+  },
+  {
+    "id": 1418,
+    "shopName": "久留米西鉄タクシー株式会社　鳥栖営業所",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【一般旅客自動車運送事業】",
+    "address": "鳥栖市田代外町570　",
+    "tel": "0942-83-4106",
+    "holiday": "なし",
+    "businessHour": "6：00～27：00（午前6時から午前3時）"
+  },
+  {
+    "id": 1419,
+    "shopName": "佳麗マッサージサロン",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【マッサージ】",
+    "address": "鳥栖市本通町1丁目805-1　",
+    "tel": "080-3992-3977",
+    "holiday": "月曜日",
+    "businessHour": "11:00～23:00（18時以降予約制）"
+  },
+  {
+    "id": 1420,
+    "shopName": "小川楽器　株式会社　鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【楽器、楽譜、小物類】",
+    "address": "鳥栖市本鳥栖町537-1　",
+    "tel": "0942-81-2510",
+    "holiday": "なし",
+    "businessHour": "10:00～21:00　※日祝10:00～20:00"
+  },
+  {
+    "id": 1421,
+    "shopName": "母めし　だっこ。",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【定食・居酒屋】",
+    "address": "鳥栖市本通町2丁目878-5　",
+    "tel": "0942-85-3821",
+    "holiday": "日曜日",
+    "businessHour": "12:00～14:30、18:00～24:00"
+  },
+  {
+    "id": 1422,
+    "shopName": "さくらタクシー",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【タクシー】",
+    "address": "鳥栖市轟木町1859-5　",
+    "tel": "0942-87-9500",
+    "holiday": "なし",
+    "businessHour": "7：00～2：00"
+  },
+  {
+    "id": 1423,
+    "shopName": "玄海ざんまい　鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【宅配寿司】",
+    "address": "鳥栖市大正町771-15　",
+    "tel": "0942-87-3377",
+    "holiday": "年中無休",
+    "businessHour": "10:00～21:00"
+  },
+  {
+    "id": 1424,
+    "shopName": "サロン　Crarisa",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【再生美容エステ、化粧品販売】",
+    "address": "鳥栖市萱方町216　",
+    "tel": "090-3197-7253",
+    "holiday": "日、祝日",
+    "businessHour": "平日10:00~17:00(16:00最終受付)　土曜日10:30~16:00"
+  },
+  {
+    "id": 1425,
+    "shopName": "花音",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【日替わり定食】",
+    "address": "鳥栖市幡崎町1056-8　",
+    "tel": "090-2963-5528",
+    "holiday": "不定休",
+    "businessHour": "10:00～17：00"
+  },
+  {
+    "id": 1426,
+    "shopName": "SWEET SHOP TAKA スイートショップ・タカ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【洋菓子製造販売】",
+    "address": "鳥栖市宿町721　",
+    "tel": "0942-82-4271",
+    "holiday": "火曜日、水曜日",
+    "businessHour": "10:00～18:00"
+  },
+  {
+    "id": 1427,
+    "shopName": "comodo",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【造園会社】",
+    "address": "鳥栖市酒井西町751-3　",
+    "tel": "090-9967-2913",
+    "holiday": "水木金土日",
+    "businessHour": "12：00～16：00"
+  },
+  {
+    "id": 1428,
+    "shopName": "インド料理ビスヌ　鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【インド料理】",
+    "address": "鳥栖市真木町1798-1　",
+    "tel": "0942-82-8282",
+    "holiday": "なし",
+    "businessHour": "11：00～15：00　17：30～21：30"
+  },
+  {
+    "id": 1429,
+    "shopName": "いけもと整体施術院",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "サービス・その他【整体及び骨盤固定具等（必要に応じて）】",
+    "address": "鳥栖市立石町12-280　",
+    "tel": "0942-83-7346",
+    "holiday": "木～月",
+    "businessHour": "8:00～22:00"
+  },
+  {
+    "id": 1430,
+    "shopName": "BAR APPLAUTIR",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【BAR】",
+    "address": "鳥栖市本通町1-813-16　",
+    "tel": "0942-82-1198",
+    "holiday": "不定休",
+    "businessHour": "19：00～翌4：00"
+  },
+  {
+    "id": 1431,
+    "shopName": "おぐまうどん",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【うどん、そば、丼物】",
+    "address": "鳥栖市真木町2018-1　",
+    "tel": "0942-82-9156",
+    "holiday": "木曜日",
+    "businessHour": "11：00～16：30"
+  },
+  {
+    "id": 1432,
+    "shopName": "トスステーションホテル マツザカ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【ホテル】",
+    "address": "鳥栖市京町724-3　",
+    "tel": "0942-82-2012",
+    "holiday": "年中無休",
+    "businessHour": "チェックイン15：00 チェックアウト10：00"
+  },
+  {
+    "id": 1433,
+    "shopName": "一味ラーメン　鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【ラーメン店】",
+    "address": "鳥栖市真木町1138-1　",
+    "tel": "0942-84-3663",
+    "holiday": "不定休",
+    "businessHour": "10:30～21:00（OS 20:45）"
+  },
+  {
+    "id": 1434,
+    "shopName": "肉肉うどん　鳥栖店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【うどん類】",
+    "address": "鳥栖市宿町731-3　",
+    "tel": "0942-50-8479",
+    "holiday": "1/1",
+    "businessHour": "11:00～21:45（L.O）"
+  },
+  {
+    "id": 1435,
+    "shopName": "有限会社　西村石油",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【ガソリンスタンド】",
+    "address": "鳥栖市立石町2203-4　",
+    "tel": "0942-82-2486",
+    "holiday": "日曜日",
+    "businessHour": "8:00～21:00"
+  },
+  {
+    "id": 1436,
+    "shopName": "アンジェココ",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【洋菓子店　カフェ】",
+    "address": "鳥栖市蔵上4丁目121　",
+    "tel": "0942-81-1638",
+    "holiday": "月曜日　第1、3火曜日",
+    "businessHour": "10:00～19:00"
+  },
+  {
+    "id": 1437,
+    "shopName": "あんじぇここ　杏都",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【和菓子店　カフェ】",
+    "address": "鳥栖市原古賀町519　",
+    "tel": "0942-85-7780",
+    "holiday": "月曜日　第1、3火曜日",
+    "businessHour": "10:00～18:00"
+  },
+  {
+    "id": 1438,
+    "shopName": "ベスト電器　鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【家電品販売】",
+    "address": "鳥栖市宿町962-7　",
+    "tel": "0942-82-0335",
+    "holiday": "なし",
+    "businessHour": "10:00～20:00"
+  },
+  {
+    "id": 1439,
+    "shopName": "blanche cafe",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "飲食【ランチ提供　Bar営業】",
+    "address": "鳥栖市本通町2丁目878-8-2Ｆ　",
+    "tel": "050-1332-7136",
+    "holiday": "",
+    "businessHour": ""
+  },
+  {
+    "id": 1440,
+    "shopName": "久保山電気商会",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【電化製品販売・電気工事】",
+    "address": "鳥栖市原町709-4　",
+    "tel": "0942-83-8885",
+    "holiday": "不定休",
+    "businessHour": "9:00-18:00"
+  },
+  {
+    "id": 1441,
+    "shopName": "LUCK　CAFE",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【カフェ】",
+    "address": "鳥栖市宿町1421-5　",
+    "tel": "090-9075-9455",
+    "holiday": "火曜日",
+    "businessHour": ""
+  },
+  {
+    "id": 1442,
+    "shopName": "南鳥栖自動車学院",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【自動車運転免許教習所】",
+    "address": "鳥栖市酒井西町630-1　",
+    "tel": "0942-82-7855",
+    "holiday": "年末年始",
+    "businessHour": "平日9:00～20:30   土日祝9:00～18:30"
+  },
+  {
+    "id": 1443,
+    "shopName": "サニー鳥栖店",
+    "exclusive": false,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "物販【小売店・スーパー】",
+    "address": "鳥栖市元町字横田1248-1　",
+    "tel": "0942-83-3733",
+    "holiday": "なし",
+    "businessHour": "24時間"
+  },
+  {
+    "id": 1444,
+    "shopName": "グリンベル",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【自動車修理】",
+    "address": "鳥栖市本鳥栖町437-1　",
+    "tel": "0942-85-9706",
+    "holiday": "不定休",
+    "businessHour": "09：00～18：00"
+  },
+  {
+    "id": 1445,
+    "shopName": "保護猫カフェ1028",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【保護猫カフェ】",
+    "address": "鳥栖市大正町820-13　",
+    "tel": "",
+    "holiday": "不定休",
+    "businessHour": "平日11:00～19:00  土日祝10:00～19:00"
+  },
+  {
+    "id": 1446,
+    "shopName": "クラブ ルチア",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【クラブ】",
+    "address": "鳥栖市本鳥栖町366-6　",
+    "tel": "0942-85-8955",
+    "holiday": "日、祝日",
+    "businessHour": "20:00～25:00"
+  },
+  {
+    "id": 1447,
+    "shopName": "Hair Studio Ryne",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "サービス・その他【美容室】",
+    "address": "鳥栖市本鳥栖町814-6　上野ビル1-4",
+    "tel": "0942-85-7920",
+    "holiday": "月・第1火・第3日曜日",
+    "businessHour": "10：00～21：00"
+  },
+  {
+    "id": 1448,
+    "shopName": "大龍ラーメン　小森野町店",
+    "exclusive": true,
+    "availableTickets": [
+      "紙"
+    ],
+    "businessType": "飲食【ラーメン専門店】",
+    "address": "鳥栖市真木町赤江1056-1　",
+    "tel": "0942-84-0559",
+    "holiday": "不定休",
+    "businessHour": "11:00～22:00　月11:00～16:00"
+  },
+  {
+    "id": 1449,
+    "shopName": "yonayonaknitting",
+    "exclusive": true,
+    "availableTickets": [
+      "紙",
+      "電子"
+    ],
+    "businessType": "物販【輸入毛糸・編み物道具】",
+    "address": "鳥栖市宿町1401-5　永瀬ビル205",
+    "tel": "080-4283-0975",
+    "holiday": "不定休",
+    "businessHour": "平日10:00～14:30　土日祝10:00～16:00"
+  }
+]
